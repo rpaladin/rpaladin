@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>ABOUT ME</h1>
+  <h1>BIO</h1>
 </div>
 
 <div align="center">
