@@ -1,4 +1,15 @@
 <div align="center">
+  <h1>ABOUT ME</h1>
+</div>
+
+<div align="center">
+  <ul style="list-style-type: none; padding: 0; margin: 0;">
+    <li>Active <b>Armory3D</b> contributor</li>
+    <li>Retired <b>UPBGE</b> co-admin & developer</li>
+  </ul>
+</div>
+
+<div align="center">
   <table>
     <tr>
       <th>Company</th>
