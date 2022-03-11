@@ -3,10 +3,8 @@
 </div>
 
 <div align="center">
-  <ul style="list-style-type: none; padding: 0; margin: 0;">
-    <li>Active <b>Armory3D</b> contributor</li>
-    <li>Retired <b>UPBGE</b> co-admin & developer</li>
-  </ul>
+  <p>Active <b>Armory3D</b> contributor</p>
+  <p>Retired <b>UPBGE</b> co-admin & developer</p>
 </div>
 
 <div align="center">
