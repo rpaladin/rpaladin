@@ -3,33 +3,10 @@
 </div>
 
 <div align="center">
-  <p>Active <b>Armory3D</b> contributor | Retired <b>UPBGE</b> co-admin & developer</p>
+  <p>Active <a href="https://armory3d.org">Armory3D</a> contributor | Retired <a href="https://upbge.org">UPBGE</a> co-admin & developer</p>
 </div>
-
-<div align="center">
-  <table>
-    <tr>
-      <th>Company</th>
-      <th>Status</th>
-      <th>Role</th>
-    </tr>
-    <tr>
-      <td><a href="https://armory3d.org">Armory3D</a></td>
-      <td>Active</td>
-      <td>Contributor</td>
-    </tr>
-    <tr>
-      <td><a href="https://upbge.org">UPBGE</a></td>
-      <td>Retired</td>
-      <td>Co-Admin + Developer </td>
-    </tr>
-    <tr>
-      <td><a href="https://playcanvas.com">PlayCanvas</a></td>
-      <td>N/A</td>
-      <td>Enthusiast</td>
-    </tr>
-  </table>
   
+<div align="center">
   <a href="https://discord.gg/rtpFtwnZCq">
     <img src="https://img.shields.io/badge/discord-%23E60023.svg?&style=for-the-badge&logo=discord&logoColor=white" />
   </a>
