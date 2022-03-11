@@ -23,13 +23,17 @@
       <td>Enthusiast</td>
     </tr>
   </table>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/youtube-%23E60023.svg?&style=for-the-badge&logo=youtube&logoColor=white" href="https://www.youtube.com/channel/UCPnPW3BMq3Lv--L6XFoVfLA" />
   
-  <div align="center">
-  <img src="https://img.shields.io/badge/twitter-%23E60023.svg?&style=for-the-badge&logo=twitter&logoColor=white" href="https://www.twitter.com/rpaladin_01" />
+  <a href="https://www.youtube.com/channel/UCPnPW3BMq3Lv--L6XFoVfLA">
+    <img src="https://img.shields.io/badge/youtube-%23E60023.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.twitter.com/rpaladin_01">
+    <img src="https://img.shields.io/badge/twitter-%23E60023.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.reddit.com/randompandagames">
+    <img src="https://img.shields.io/badge/reddit-%23E60023.svg?&style=for-the-badge&logo=reddit&logoColor=white" />
+  </a>
+</div>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rpaladin&theme=dark&show_icons=true" alt="rpaladin's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpaladin&layout=compact&theme=dark&show_icons=true" /></a> 
 | ------------- | ------------- |
