@@ -2,9 +2,8 @@
   <h1>ABOUT ME</h1>
 </div>
 
-<div style="display: flex; justify-content: center;">
-  <p>Active <b>Armory3D</b> contributor</p>
-  <p>Retired <b>UPBGE</b> co-admin & developer</p>
+<div align="center">
+  <p>Active <b>Armory3D</b> contributor | Retired <b>UPBGE</b> co-admin & developer</p>
 </div>
 
 <div align="center">
