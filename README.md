@@ -8,16 +8,16 @@
   
 <div align="center">
   <a href="https://discord.gg/rtpFtwnZCq">
-    <img src="https://img.shields.io/badge/discord-%23E60023.svg?&style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/discord-%23E60023.svg?&color=slategray&style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/channel/UCPnPW3BMq3Lv--L6XFoVfLA">
     <img src="https://img.shields.io/badge/youtube-%23E60023.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://www.twitter.com/rpaladin_01">
-    <img src="https://img.shields.io/badge/twitter-%23E60023.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/twitter-%23E60023.svg?&color=blue&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.reddit.com/u/randompandagames">
-    <img src="https://img.shields.io/badge/reddit-%23E60023.svg?&style=for-the-badge&logo=reddit&logoColor=white" />
+    <img src="https://img.shields.io/badge/reddit-%23E60023.svg?&color=darkorange&style=for-the-badge&logo=reddit&logoColor=white" />
   </a>
 </div>
 
