@@ -8,7 +8,7 @@
   
 <div align="center">
   <a href="https://discord.gg/rtpFtwnZCq">
-    <img src="https://img.shields.io/badge/discord-%23E60023.svg?&color=lightslategray&style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/discord-%23E60023.svg?&color=darkslateblue&style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/channel/UCPnPW3BMq3Lv--L6XFoVfLA">
     <img src="https://img.shields.io/badge/youtube-%23E60023.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
