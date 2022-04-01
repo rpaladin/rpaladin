@@ -1,8 +1,4 @@
 <div align="center">
-  <h1>BIO</h1>
-</div>
-
-<div align="center">
   <p>Active <a href="https://armory3d.org">Armory3D</a> contributor | Retired <a href="https://upbge.org">UPBGE</a> co-admin & developer</p>
 </div>
   
