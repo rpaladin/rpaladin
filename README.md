@@ -12,23 +12,37 @@
           <td align="center"><img src="https://github.com/assaultcube/assaultcube.github.io/blob/master/htdocs/docs/images/favicon.ico" width=64 />
         </tr>
         <tr>
-          <th><a href="https://www.armory3d.org">Armory3D</a></th>
-          <th><a href="https://www.upbge.org">UPBGE</a></th>
-          <th><a href="https://assault.cubers.net">AssaultCube</a></th>
+          <th align="center"><a href="https://www.armory3d.org">Armory3D</a></th>
+          <th align="center"><a href="https://www.upbge.org">UPBGE</a></th>
+          <th align="center"><a href="https://assault.cubers.net">AssaultCube</a></th>
         </tr>
         <tr>
-          <td>Active contributor</td>
-          <td>Retired co-admin & developer</td>
-          <td>Retired contributor</td>
+          <td align="center"><code>Active contributor</code></td>
+          <td align="center"><code>Retired co-admin & developer</code></td>
+          <td align="center"><code>Retired contributor</code></td>
         </tr>
+<!--         <tr>
+          <td align="center"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width=64 /></td>
+          <td align="center"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="64"></a></td>
+          <td align="center"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="64">
+        </tr>
+        <th><a href="https://www.godotengine.org">Godot</a></th>
+          <th align="center"><a href="https://www.unity3d.com">Unity3D</a></th>
+          <th align="center"><a href="https://www.blend4web.com">Blend4Web</a></th>
+        </th>
+        <tr>
+          <td align="center"><code>Level: Decent</code></td>
+          <td align="center"align="center"><code>Level: Decent</code></td>
+          <td align="center"><code>Level: Basics</code></td>
+        </tr> -->
         <tr>
           <td align="center"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width=64 /></td>
           <td align="center"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="64"></a></td>
           <td align="center"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="64">
         </tr>
         <th><a href="https://www.python.org">Python 3.x</a></th>
-          <th><a href="https://developer.mozilla.org">HTML5</a></th>
-          <th><a href="https://assault.cubers.net">NodeJS</a></th>
+          <th align="center"><a href="https://developer.mozilla.org">HTML5</a></th>
+          <th align="center"><a href="https://assault.cubers.net">NodeJS</a></th>
         </th>
         <tr>
           <td align="center">Fluent</td>
