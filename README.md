@@ -1,19 +1,19 @@
 <table align="center">
   <tr>
-    <th><h1>Contributor</h1>
+    <th><h1>Full-Stack</h1>
     <th><h1>Social</h1></th>
   </tr>
   <tr>
     <td>
       <table align="center">
         <tr>
-          <td align="center"><img src="https://github.com/armory3d/armory_web/blob/gh-pages/favicon.ico" width=64></a></td>
-          <td align="center"><img src="https://github.com/UPBGE/upbge.github.io/blob/gh-pages/favicon.png" width="64"></a></td>
-            <td align="center"><img src="https://github.com/assaultcube/assaultcube.github.io/blob/master/htdocs/docs/images/favicon.ico" width="64">
+          <td align="center"><img src="https://github.com/armory3d/armory_web/blob/gh-pages/favicon.ico" width=64 /></a></td>
+          <td align="center"><img src="https://github.com/UPBGE/upbge.github.io/blob/gh-pages/favicon.png" width=64 /></a></td>
+          <td align="center"><img src="https://github.com/assaultcube/assaultcube.github.io/blob/master/htdocs/docs/images/favicon.ico" width=64 />
         </tr>
         <tr>
           <th><a href="https://www.armory3d.org">Armory3D</a></th>
-          <th><a href="https://www.pbge.org">UPBGE</a></th>
+          <th><a href="https://www.upbge.org">UPBGE</a></th>
           <th><a href="https://assault.cubers.net">AssaultCube</a></th>
         </tr>
         <tr>
@@ -21,6 +21,15 @@
           <td>Retired co-admin & developer</td>
           <td>Retired contributor</td>
         </tr>
+        <tr>
+          <td align="center"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width=64 /></td>
+          <td align="center"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="64"></a></td>
+          <td align="center"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="64">
+        </tr>
+        <th><a href="https://www.python.org">Python 3.x</a></th>
+          <th><a href="https://developer.mozilla.org">HTML5</a></th>
+          <th><a href="https://assault.cubers.net">NodeJS</a></th>
+        </th>
       </table>
     </td>
     <td align="center">
