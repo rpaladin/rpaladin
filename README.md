@@ -23,7 +23,7 @@
         </tr>
       </table>
     </td>
-    <td>
+    <td align="center">
       <a href="https://discord.gg/rtpFtwnZCq">
         <img src="https://img.shields.io/badge/discord-%23E60023.svg?&color=darkslateblue&style=for-the-badge&logo=discord&logoColor=white" />
       </a>
