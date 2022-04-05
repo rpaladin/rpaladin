@@ -30,6 +30,11 @@
           <th><a href="https://developer.mozilla.org">HTML5</a></th>
           <th><a href="https://assault.cubers.net">NodeJS</a></th>
         </th>
+        <tr>
+          <td align="center">Fluent</td>
+          <td align="center"align="center">Fluent</td>
+          <td align="center">Basics</td>
+        </tr>
       </table>
     </td>
     <td align="center">
