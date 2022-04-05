@@ -58,5 +58,5 @@
   </tr>
 </table> -->
 
-|  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpaladin&layout=compact&theme=dark&show_icons=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=rpaladin&theme=dark&show_icons=true" />
+|  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpaladin&layout=compact&theme=ayu-mirage&show_icons=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=rpaladin&theme=ayu-mirage&show_icons=true" />
 | ------------- | ------------- |
