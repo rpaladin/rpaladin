@@ -1,5 +1,6 @@
 <table align="center">
-    <th><h1>Full-Stack</h1>
+  <tr>
+    <th><h1>Contributor</h1>
     <th><h1>Social</h1></th>
   </tr>
   <tr>
@@ -8,14 +9,17 @@
         <tr>
           <td align="center"><img src="https://github.com/armory3d/armory_web/blob/gh-pages/favicon.ico" width=64></a></td>
           <td align="center"><img src="https://github.com/UPBGE/upbge.github.io/blob/gh-pages/favicon.png" width="64"></a></td>
+            <td align="center"><img src="https://github.com/assaultcube/assaultcube.github.io/blob/master/htdocs/docs/images/favicon.ico" width="64">
         </tr>
-          <tr>
-          <th><a href="https://armory3d.org">Armory3D</a></th>
-          <th><a href="https://upbge.org">UPBGE</a></th>
+        <tr>
+          <th><a href="https://www.armory3d.org">Armory3D</a></th>
+          <th><a href="https://www.pbge.org">UPBGE</a></th>
+          <th><a href="https://assault.cubers.net">AssaultCube</a></th>
         </tr>
         <tr>
           <td>Active contributor</td>
           <td>Retired co-admin & developer</td>
+          <td>Retired contributor</td>
         </tr>
       </table>
     </td>
@@ -45,5 +49,5 @@
   </tr>
 </table> -->
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=rpaladin&theme=dark&show_icons=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpaladin&layout=compact&theme=dark&show_icons=true" />
+|  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpaladin&layout=compact&theme=dark&show_icons=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=rpaladin&theme=dark&show_icons=true" />
 | ------------- | ------------- |
