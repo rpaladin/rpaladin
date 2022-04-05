@@ -1,7 +1,17 @@
-<div align="center">
-  <p>Active <a href="https://armory3d.org">Armory3D</a> contributor | Retired <a href="https://upbge.org">UPBGE</a> co-admin & developer</p>
-</div>
-  
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://github.com/armory3d/armory_web/blob/gh-pages/favicon.ico" width=64></a></td>
+    <td align="center"><img src="https://github.com/UPBGE/upbge.github.io/blob/gh-pages/favicon.png" width="64" alt="Ghost Rush"></a></td>
+  </tr>
+    <tr>
+    <th><a href="https://armory3d.org">Armory3D</a></th>
+    <th><a href="https://upbge.org">UPBGE</a></th>
+  </tr>
+  <tr>
+    <td>Active contributor</td>
+    <td>Retired co-admin & developer</td>
+  </tr>
+</table>
 <div align="center">
   <a href="https://discord.gg/rtpFtwnZCq">
     <img src="https://img.shields.io/badge/discord-%23E60023.svg?&color=darkslateblue&style=for-the-badge&logo=discord&logoColor=white" />
@@ -17,5 +27,14 @@
   </a>
 </div>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rpaladin&theme=dark&show_icons=true" alt="rpaladin's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpaladin&layout=compact&theme=dark&show_icons=true" /></a> 
+<!-- <table align="center">
+  <tr align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rpaladin&theme=dark&show_icons=true" alt="rpaladin's github stats" />
+  </tr>
+  <tr align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpaladin&layout=compact&theme=dark&show_icons=true" />
+  </tr>
+</table> -->
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=rpaladin&theme=dark&show_icons=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpaladin&layout=compact&theme=dark&show_icons=true" />
 | ------------- | ------------- |
