@@ -89,8 +89,7 @@
           <img src="https://img.shields.io/badge/reddit-%23E60023.svg?&color=darkorange&style=for-the-badge&logo=reddit&logoColor=white" />
         </a>
       </td>
-    </table>
-  </th>
+    </th>
   </tr>
 </table>
 <br />
