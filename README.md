@@ -5,12 +5,13 @@
   </tr>
   <tr>
     <th>
+      <!-- FULL-STACK -->
       <table align="center">
         <!-- IMG 1-3 -->
         <tr>
-          <th align="center"><img src="https://github.com/armory3d/armory_web/blob/gh-pages/favicon.ico" width=64 /></th>
-          <th align="center"><img src="https://github.com/UPBGE/upbge.github.io/blob/gh-pages/favicon.png" width=64 /></th>
-          <th align="center"><img src="https://github.com/assaultcube/assaultcube.github.io/blob/master/htdocs/docs/images/favicon.ico" width=64 /></th>
+          <th align="center"><img src="https://avatars.githubusercontent.com/u/20436620?s=200&v=4" width=64 /></th>
+          <th align="center"><img src="https://avatars.githubusercontent.com/u/16006310?s=200&v=4" width=64 /></th>
+          <th align="center"><img src="https://avatars.githubusercontent.com/u/5957666?s=200&v=4" width=64 /></th>
         </tr>
         <!-- TITLE 1-3 -->
         <tr>
@@ -24,21 +25,56 @@
           <th align="center">Retired co-admin & developer</th>
           <th align="center">Retired contributor</th>
         </tr>
+        <!-- IMG 4-6 -->
         <tr>
-          <td align="center"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width=64 /></td>
-          <td align="center"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width=64 /></td>
-          <td align="center"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width=64 /></td>
+          <th align="center"><img src="https://avatars.githubusercontent.com/u/1030579?s=200&v=4" width=64 /></th>
+          <td align="center"><img src="https://avatars.githubusercontent.com/u/6318500?s=200&v=4" width=64 /></td>
+          <td align="center"><img src="https://avatars.githubusercontent.com/u/13039680?s=200&v=4" width=64 /></td>
         </tr>
-        <th><a href="https://www.python.org">Python 3.x</a></th>
-          <th align="center"><a href="https://developer.mozilla.org">HTML5</a></th>
-          <th align="center"><a href="https://assault.cubers.net">NodeJS</a></th>
-        </th>
+        <!-- TITLE 4-6 -->
         <tr>
+          <th align="center"><a href="https://www.playcanvas.com">PlayCanvas</a></th>
+          <th align="center"><a href="https://www.godotengine.org">Godot</a></th>
+          <th align="center"><a href="https://www.unity3d.com">Unity3D</a></th>
+        </tr>
+        <!-- STATUS 4-6 -->
+        <tr>
+          <td align="center">Decent</td>
+          <td align="center"align="center">Basics</td>
+          <td align="center">Basics</td>
+        </tr>
+        <!-- IMG 7-9 -->
+        <tr>
+          <td align="center"><img src="https://avatars.githubusercontent.com/u/7070926?s=200&v=4" width=64 /></td>
+          <th align="center"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width=64 /></th>
+          <th align="center"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width=64 /></th>
+        </tr>
+        <!-- TITLE 7-9 -->
+        <tr>
+          <th align="center"><a href="https://www.blend4web.com">Blend4Web</a></th>
+          <th align="center"><a href="https://www.python.org">Python 3+</a></th>
+          <th align="center"><a href="https://developer.mozilla.org">HTML5</a></th>
+        </tr>
+        <!-- STATUS 7-9 -->
+        <tr>
+          <th align="center">Basics</th>
           <th align="center">Fluent</th>
-          <th align="center"align="center">Fluent</th>
+          <th align="center">Fluent</th>
+        </tr>
+        <!-- IMG 10 -->
+        <tr>
+          <th align="center"><img src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" width=64 /></th>
+        </tr>
+        <!-- TITLE 10 -->
+        <tr>
+          <th align="center"><a href="https://www.nodejs.org">NodeJS</th>
+        </tr>
+        <!-- STATUS 10 -->
+        <tr>
           <th align="center">Basics</th>
         </tr>
       </table>
+      <!-- SOCIAL LINKS -->
       <td align="center">
         <a href="https://discord.gg/rtpFtwnZCq">
           <img src="https://img.shields.io/badge/discord-%23E60023.svg?&color=darkslateblue&style=for-the-badge&logo=discord&logoColor=white" />
