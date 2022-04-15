@@ -27,50 +27,53 @@
         </tr>
         <!-- IMG 4-6 -->
         <tr>
+          <th align="center"><img src="https://avatars.githubusercontent.com/u/4855800?s=200&v=4" width=64 /></th>
           <th align="center"><img src="https://avatars.githubusercontent.com/u/1030579?s=200&v=4" width=64 /></th>
           <th align="center"><img src="https://avatars.githubusercontent.com/u/6318500?s=200&v=4" width=64 /></th>
-          <th align="center"><img src="https://avatars.githubusercontent.com/u/13039680?s=200&v=4" width=64 /></th>
         </tr>
         <!-- TITLE 4-6 -->
         <tr>
+          <td align="center"><a href="https://www.babylonjs.com">Babylon.js</a></td>
           <td align="center"><a href="https://www.playcanvas.com">PlayCanvas</a></td>
           <td align="center"><a href="https://www.godotengine.org">Godot</a></td>
-          <td align="center"><a href="https://www.unity3d.com">Unity3D</a></td>
         </tr>
         <!-- STATUS 4-6 -->
         <tr>
-          <th align="center">Decent</th>
+          <th align="center">Active co-admin<br />(unofficial Discord)</th>
           <th align="center"align="center">Moderate</th>
-          <th align="center">Basics</th>
+          <th align="center">Moderate</th>
         </tr>
         <!-- IMG 7-9 -->
         <tr>
+          <th align="center"><img src="https://avatars.githubusercontent.com/u/13039680?s=200&v=4" width=64 /></th>
           <th align="center"><img src="https://avatars.githubusercontent.com/u/7070926?s=200&v=4" width=64 /></th>
-          <th align="center"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width=64 /></th>
           <th align="center"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width=64 /></th>
         </tr>
         <!-- TITLE 7-9 -->
         <tr>
+          <td align="center"><a href="https://www.unity3d.com">Unity3D</a></td>
           <td align="center"><a href="https://www.blend4web.com">Blend4Web</a></td>
-          <td align="center"><a href="https://www.python.org">Python 3+</a></td>
           <td align="center"><a href="https://developer.mozilla.org">HTML5</a></td>
         </tr>
         <!-- STATUS 7-9 -->
         <tr>
-          <th align="center">Moderate</th>
-          <th align="center">Fluent</th>
+          <th align="center">Basics</th>
+          <th align="center">Decent</th>
           <th align="center">Fluent</th>
         </tr>
         <!-- IMG 10 -->
         <tr>
+          <th align="center"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width=64 /></th>
           <th align="center"><img src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" width=64 /></th>
         </tr>
         <!-- TITLE 10 -->
         <tr>
+          <td align="center"><a href="https://www.python.org">Python 3+</a></td>
           <td align="center"><a href="https://www.nodejs.org">NodeJS</td>
         </tr>
         <!-- STATUS 10 -->
         <tr>
+          <th align="center">Fluent</th>
           <th align="center">Basics</th>
         </tr>
       </table>
