@@ -40,7 +40,7 @@
         <!-- STATUS 4-6 -->
         <tr>
           <th align="center">ex-Contributor</th>
-          <th align="center"align="center">Moderate</th>
+          <th align="center"align="center">Decent</th>
           <th align="center">Moderate</th>
         </tr>
         <!-- IMG 7-9 -->
@@ -58,7 +58,7 @@
         <!-- STATUS 7-9 -->
         <tr>
           <th align="center">Basics</th>
-          <th align="center">Decent</th>
+          <th align="center">Moderate</th>
           <th align="center">Fluent</th>
         </tr>
         <!-- IMG 10 -->
