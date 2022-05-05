@@ -21,9 +21,9 @@
         </tr>
         <!-- STATUS 1-3 -->
         <tr>
-          <th align="center">Contributor</th>
-          <th align="center">ex-Developer & Admin</th>
-          <th align="center">Admin (discord)</th>
+          <th align="center">Contributor<br />Fluent</th>
+          <th align="center">(ex) Developer & Admin<br />Very fluent</th>
+          <th align="center">Admin (discord)<br />Basics</th>
         </tr>
         <!-- IMG 4-6 -->
         <tr>
@@ -39,7 +39,7 @@
         </tr>
         <!-- STATUS 4-6 -->
         <tr>
-          <th align="center">ex-Contributor</th>
+          <th align="center">(ex) Contributor<br />Gamer</th>
           <th align="center"align="center">Decent</th>
           <th align="center">Moderate</th>
         </tr>
@@ -59,7 +59,7 @@
         <tr>
           <th align="center">Basics</th>
           <th align="center">Moderate</th>
-          <th align="center">Fluent</th>
+          <th align="center">Very fluent</th>
         </tr>
         <!-- IMG 10 -->
         <tr>
