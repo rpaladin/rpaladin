@@ -15,9 +15,9 @@
         </tr>
         <!-- TITLE 1-3 -->
         <tr>
-          <td align="center"><a href="https://www.babylonjs.com">Babylon.js</a></td>
-          <td align="center"><a href="https://www.armory3d.org">Armory3D</a></td>
-          <td align="center"><a href="https://www.upbge.org">UPBGE</a></td>
+          <td align="center"><a href="https://babylonjs.com">Babylon.js</a></td>
+          <td align="center"><a href="https://armory3d.org">Armory3D</a></td>
+          <td align="center"><a href="https://upbge.org">UPBGE</a></td>
         </tr>
         <!-- STATUS 1-3 -->
         <tr>
@@ -34,8 +34,8 @@
         <!-- TITLE 4-6 -->
         <tr>
           <td align="center"><a href="https://assault.cubers.net">AssaultCube</a></td>
-          <td align="center"><a href="https://www.playcanvas.com">PlayCanvas</a></td>
-          <td align="center"><a href="https://www.godotengine.org">Godot</a></td>
+          <td align="center"><a href="https://playcanvas.com">PlayCanvas</a></td>
+          <td align="center"><a href="https://godotengine.org">Godot</a></td>
         </tr>
         <!-- STATUS 4-6 -->
         <tr>
@@ -51,8 +51,8 @@
         </tr>
         <!-- TITLE 7-9 -->
         <tr>
-          <td align="center"><a href="https://www.unity3d.com">Unity3D</a></td>
-          <td align="center"><a href="https://www.blend4web.com">Blend4Web</a></td>
+          <td align="center"><a href="https://unity3d.com">Unity3D</a></td>
+          <td align="center"><a href="https://blend4web.com">Blend4Web</a></td>
           <td align="center"><a href="https://developer.mozilla.org">HTML5</a></td>
         </tr>
         <!-- STATUS 7-9 -->
@@ -68,8 +68,8 @@
         </tr>
         <!-- TITLE 10 -->
         <tr>
-          <td align="center"><a href="https://www.python.org">Python 3</a></td>
-          <td align="center"><a href="https://www.nodejs.org">Node.js</td>
+          <td align="center"><a href="https://python.org">Python 3</a></td>
+          <td align="center"><a href="https://nodejs.org">Node.js</td>
         </tr>
         <!-- STATUS 10 -->
         <tr>
