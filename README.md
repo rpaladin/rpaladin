@@ -68,8 +68,8 @@
         </tr>
         <!-- TITLE 10 -->
         <tr>
-          <td align="center"><a href="https://www.python.org">Python 3+</a></td>
-          <td align="center"><a href="https://www.nodejs.org">NodeJS</td>
+          <td align="center"><a href="https://www.python.org">Python 3</a></td>
+          <td align="center"><a href="https://www.nodejs.org">Node.js</td>
         </tr>
         <!-- STATUS 10 -->
         <tr>
