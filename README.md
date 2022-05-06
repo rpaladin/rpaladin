@@ -9,21 +9,21 @@
       <table>
         <!-- IMG 1-3 -->
         <tr>
+          <th align="center"><img src="https://avatars.githubusercontent.com/u/4855800?s=200&v=4" width=64 /></th>
           <th align="center"><img src="https://avatars.githubusercontent.com/u/20436620?s=200&v=4" width=64 /></th>
           <th align="center"><img src="https://avatars.githubusercontent.com/u/16006310?s=200&v=4" width=64 /></th>
-          <th align="center"><img src="https://avatars.githubusercontent.com/u/4855800?s=200&v=4" width=64 /></th>
         </tr>
         <!-- TITLE 1-3 -->
         <tr>
+          <td align="center"><a href="https://www.babylonjs.com">Babylon.js</a></td>
           <td align="center"><a href="https://www.armory3d.org">Armory3D</a></td>
           <td align="center"><a href="https://www.upbge.org">UPBGE</a></td>
-          <td align="center"><a href="https://www.babylonjs.com">Babylon.js</a></td>
         </tr>
         <!-- STATUS 1-3 -->
         <tr>
+          <th align="center">Admin (discord)<br />Basics</th>
           <th align="center">Contributor<br />Fluent</th>
           <th align="center">(ex) Developer & Admin<br />Very fluent</th>
-          <th align="center">Admin (discord)<br />Basics</th>
         </tr>
         <!-- IMG 4-6 -->
         <tr>
