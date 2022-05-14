@@ -22,8 +22,8 @@
         <!-- STATUS 1-3 -->
         <tr>
           <th align="center">Admin (discord)<br />Basics</th>
-          <th align="center">(ex) Developer & Admin<br />Fluent</th>
-          <th align="center">Contributor<br />Moderate</th>
+          <th align="center">(ex) Developer & Admin<br />Most fluent</th>
+          <th align="center">Developer<br />Moderate</th>
         </tr>
         <!-- IMG 4-6 -->
         <tr>
