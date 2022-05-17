@@ -1,72 +1,70 @@
-<table align="center">
-  <tr>
-    <th><h1>Full-Stack</h1>
-    <th><h1>Social</h1></th>
-  </tr>
-  <tr>
-    <th>
-      <!-- FULL-STACK -->
-      <table>
-        <!-- IMG 1-3 -->
-        <tr>
-          <th align="center"><img src="https://avatars.githubusercontent.com/u/4855800?s=200&v=4" width=64 /></th>
-          <th align="center"><img src="https://avatars.githubusercontent.com/u/16006310?s=200&v=4" width=64 /></th>
-          <th align="center"><img src="https://avatars.githubusercontent.com/u/20436620?s=200&v=4" width=64 /></th>
-        </tr>
-        <!-- TITLE 1-3 -->
-        <tr>
-          <td align="center"><a href="https://babylonjs.com">Babylon.js</a></td>
-          <td align="center"><a href="https://upbge.org">UPBGE</a></td>
-          <td align="center"><a href="https://armory3d.org">Armory3D</a></td>
-        </tr>
-        <!-- STATUS 1-3 -->
-        <tr>
-          <th align="center">Admin (discord)<br />Basics</th>
-          <th align="center">(ex) Developer & Admin<br />Most fluent</th>
-          <th align="center">Developer<br />Moderate</th>
-        </tr>
-        <!-- IMG 4-6 -->
-        <tr>
-          <th align="center"><img src="https://avatars.githubusercontent.com/u/5957666?s=200&v=4" width=64 /></th>
-          <th align="center"><img src="https://avatars.githubusercontent.com/u/1030579?s=200&v=4" width=64 /></th>
-          <th align="center"><img src="https://avatars.githubusercontent.com/u/6318500?s=200&v=4" width=64 /></th>
-        </tr>
-        <!-- TITLE 4-6 -->
-        <tr>
-          <td align="center"><a href="https://assault.cubers.net">AssaultCube</a></td>
-          <td align="center"><a href="https://playcanvas.com">PlayCanvas</a></td>
-          <td align="center"><a href="https://godotengine.org">Godot</a></td>
-        </tr>
-        <!-- STATUS 4-6 -->
-        <tr>
-          <th align="center">(ex) Contributor<br />Gamer</th>
-          <th align="center"align="center">Decent</th>
-          <th align="center">Moderate</th>
-        </tr>
-        <!-- IMG 7-9 -->
-        <tr>
-          <th align="center"><img src="https://avatars.githubusercontent.com/u/13039680?s=200&v=4" width=64 /></th>
-          <th align="center"><img src="https://avatars.githubusercontent.com/u/7070926?s=200&v=4" width=64 /></th>
-          <th align="center"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width=64 /></th>
-        </tr>
-        <!-- TITLE 7-9 -->
-        <tr>
-          <td align="center"><a href="https://unity3d.com">Unity3D</a></td>
-          <td align="center"><a href="https://blend4web.com">Blend4Web</a></td>
-          <td align="center"><a href="https://developer.mozilla.org">HTML5</a></td>
-        </tr>
-        <!-- STATUS 7-9 -->
-        <tr>
-          <th align="center">Basics</th>
-          <th align="center">Moderate</th>
-          <th align="center">Fluent</th>
-        </tr>
-        <!-- IMG 10 -->
-        <tr>
-          <th align="center"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width=64 /></th>
-          <th align="center"><img src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" width=64 /></th>
-        </tr>
-        <!-- TITLE 10 -->
+<h2>Full Stack - Software</h2>
+
+<div>
+  <img src="https://avatars.githubusercontent.com/u/4855800?s=200&v=4" width=64 /><br />
+  <p>Name: <a href="https://babylonjs.com">Babylon.js</a></p>
+  <p>Role: Admin (discord)</p>
+  <p>Experience: Begineer</p>
+</div>
+
+<div>
+  <img src="https://avatars.githubusercontent.com/u/16006310?s=200&v=4" width=64 />
+  <p>Name: <a href="https://upbge.org">UPBGE</a></p>
+  <p>Role: (ex) Developer & Admin</p>
+  <p>Experience: Professional</p>
+<div>
+  
+<div>
+  <img src="https://avatars.githubusercontent.com/u/20436620?s=200&v=4" width=64 />
+  <p>Name: <a href="https://armory3d.org">Armory3D</a></p>
+  <p>Role: Developer</p>
+  <p>Experience: Advanced</p>
+<div>
+  
+<div>
+  <img src="https://avatars.githubusercontent.com/u/5957666?s=200&v=4" width=64 />
+  <p>Name: <a href="https://assault.cubers.net">AssaultCube</a></p>
+  <p>Role: (ex) Contributor / Gamer</p>
+  <p>Experience: Hobbyist</p>
+<div>
+  
+<div>
+  <img src="https://avatars.githubusercontent.com/u/1030579?s=200&v=4" width=64 />
+  <p>Name: <a href="https://playcanvas.com">PlayCanvas</a></p>
+  <p>Role: Hobbyist</p>
+  <p>Experience: Advanced</p>
+<div>
+  
+<div>
+  <img src="https://avatars.githubusercontent.com/u/6318500?s=200&v=4" width=64 />
+  <p>Name: <a href="https://godotengine.org">Godot</a></p>
+  <p>Role: Hobbyist</p>
+  <p>Experience: Advanced</p>
+<div>
+  
+<div>
+  <img src="https://avatars.githubusercontent.com/u/13039680?s=200&v=4" width=64 />
+  <p>Name: <a href="https://unity3d.com">Unity</a></p>
+  <p>Role: Hobbyist</p>
+  <p>Experience: Basics</p>
+<div>
+  
+<div>
+  <img src="https://avatars.githubusercontent.com/u/7070926?s=200&v=4" width=64 />
+  <p>Name: <a href="https://blend4web.com">Blend4Web</a></p>
+  <p>Role: Hobbyist</p>
+  <p>Experience: Basics</p>
+<div>
+  
+<div>
+  <img src="https://avatars.githubusercontent.com/u/7070926?s=200&v=4" width=64 />
+  <p>Name: <a href="https://developer.mozilla.org">HTML5</a></p>
+  <p>Role: N/A</p>
+  <p>Experience: Professional</p>
+<div>
+  
+<th align="center"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width=64 /></th>
+<th align="center"><img src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" width=32 /></th>
         <tr>
           <td align="center"><a href="https://python.org">Python 3</a></td>
           <td align="center"><a href="https://nodejs.org">Node.js</td>
@@ -77,6 +75,14 @@
           <th align="center">Basics</th>
         </tr>
       </table>
+      <td align="center">
+        <tr>
+          <th align="center"><img src="https://avatars.githubusercontent.com/u/13039680?s=200&v=4" width=64 /></th>
+          <th align="center"><img src="https://avatars.githubusercontent.com/u/7070926?s=200&v=4" width=64 /></th>
+          <th align="center"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width=64 /></th>
+        </tr>
+        <th align="center">Fluent</th>
+      </td>
       <!-- SOCIAL LINKS -->
       <td align="center">
         <a href="https://discord.gg/rtpFtwnZCq">
