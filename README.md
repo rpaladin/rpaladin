@@ -86,10 +86,18 @@
 <div align="center">
   <h1>Full Stack - Languages</h1>
   
-  <!-- HTML5 -->
+  <!-- HTML -->
   <div>
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width=64 /></br />
     <b>Name: </b><a href="https://developer.mozilla.org">HTML</a></br />
+    <b>Role: </b>Hobbyist</br />
+    <b>Experience: </b>Pro
+  <div></br />
+  
+  <!-- CSS -->
+  <div>
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width=64 /></br />
+    <b>Name: </b><a href="https://developer.mozilla.org">CSS</a></br />
     <b>Role: </b>Hobbyist</br />
     <b>Experience: </b>Pro
   <div></br />
@@ -105,9 +113,25 @@
   <!-- JavaScript -->
   <div>
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width=64 /></br />
-    <b>Name: </b><a href="https://www.javascript.com/">JavaScript</a></br />
+    <b>Name: </b><a href="https://www.javascript.com">JavaScript</a></br />
     <b>Role: </b>Hobbyist</br />
     <b>Experience: </b>Advanced
+  <div></br />
+  
+  <!-- Uikit -->
+  <div>
+    <img src="https://avatars.githubusercontent.com/u/4173184?s=200&v=4" width=64 /></br />
+    <b>Name: </b><a href="https://getuikit.com">Uikit</a></br />
+    <b>Role: </b>Hobbyist</br />
+    <b>Experience: </b>Advanced
+  <div></br />
+  
+  <!-- Tailwind -->
+  <div>
+    <img src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" width=64 /></br />
+    <b>Name: </b><a href="http://tailwindcss.com">Tailwind CSS</a></br />
+    <b>Role: </b>Hobbyist</br />
+    <b>Experience: </b>Basics
   <div></br />
 
   <!-- Node.js -->
