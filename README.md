@@ -13,7 +13,7 @@
   <img src="https://avatars.githubusercontent.com/u/16006310?s=200&v=4" width=64 /><br />
   <b>Name: </b><a href="https://upbge.org">UPBGE</a><br />
   <b>Role: </b>(ex) Developer & Admin<br />
-  <b>Experience: </b>Professional
+  <b>Experience: </b>Pro
 <div><br />
   
 <!-- Armory3D -->
@@ -28,8 +28,8 @@
 <div>
   <img src="https://avatars.githubusercontent.com/u/5957666?s=200&v=4" width=64 /></br />
   <b>Name: </b><a href="https://assault.cubers.net">AssaultCube</a></br />
-  <b>Role: </b>(ex) Contributor / Gamer</br />
-  <b>Experience: </b>Hobbyist</p>
+  <b>Role: </b>(ex) Contributor</br />
+  <b>Experience: </b>Gamer</p>
 <div></br />
   
 <!-- PlayCanvas -->
@@ -45,7 +45,7 @@
   <img src="https://avatars.githubusercontent.com/u/6318500?s=200&v=4" width=64 /></br />
   <b>Name: </b><a href="https://godotengine.org">Godot</a></br />
   <b>Role: </b>Hobbyist</br />
-  <b>Experience: </b>Advanced
+  <b>Experience: </b>Basics
 <div></br />
   
 <!-- Unity3D -->
@@ -71,7 +71,7 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width=64 /></br />
   <b>Name: </b><a href="https://developer.mozilla.org">HTML</a></br />
   <b>Role: </b>Hobbyist</br />
-  <b>Experience: </b>Professional
+  <b>Experience: </b>Pro
 <div></br />
   
 <!-- Python -->
@@ -79,7 +79,7 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width=64 /></br />
   <b>Name: </b><a href="https://python.org">Python</a></br />
   <b>Role: </b>Hobbyist</br />
-  <b>Experience: </b>Professional
+  <b>Experience: </b>Pro
 <div></br />
   
 <!-- JavaScript -->
