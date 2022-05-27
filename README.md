@@ -108,7 +108,7 @@
   </tr>
 </table>
 <!-- Full Stack - Languages -->
-<h1>Full Stack - Languages</h1>
+<h1 align="center">Full Stack - Languages</h1>
 <table>
   <tr>
     <!-- HTML -->
