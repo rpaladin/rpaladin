@@ -12,23 +12,34 @@
   <a href="https://reddit.com/u/randompandagames">
     <img src="https://img.shields.io/badge/reddit-%23E60023.svg?&color=darkorange&style=for-the-badge&logo=reddit&logoColor=white" />
   </a>
-</div>
-<div align="center">
-  <h1>Full Stack - Software</h1>
-  <!-- Babylon.js -->
-  <div>
-    <img src="https://avatars.githubusercontent.com/u/4855800?s=200&v=4" width=64 /><br />
-    <b>Name: </b><a href="https://babylonjs.com">Babylon.js</a><br />
-    <b>Role: </b>Admin (discord)<br />
-    <b>Experience: </b>Begineer
-  </div><br />
-  <!-- UPBGE -->
-  <div>
-    <img src="https://avatars.githubusercontent.com/u/16006310?s=200&v=4" width=64 /><br />
-    <b>Name: </b><a href="https://upbge.org">UPBGE</a><br />
-    <b>Role: </b>(ex) Developer & Admin<br />
-    <b>Experience: </b>Pro
-  <div><br />
+</div><br /><br />
+<!-- Full Stack - Software -->
+<h1 align="center">Full Stack - Software</h1>
+<table align="center">
+  <tr>
+    <!-- Babylon.js -->
+    <td>
+      <div align="center">
+        <img src="https://avatars.githubusercontent.com/u/4855800?s=200&v=4" width=64 /><br />
+        <div align="left">
+          <b>Name: </b><a href="https://babylonjs.com">Babylon.js</a><br />
+          <b>Role: </b>Admin (discord)<br />
+          <b>Experience: </b>Begineer
+        </div>
+      </div>
+    </td>
+    <!-- UPBGE -->
+    <td>
+      <div align="center">
+        <img src="https://avatars.githubusercontent.com/u/16006310?s=200&v=4" width=64 /><br />
+        <div align="left">
+          <b>Name: </b><a href="https://upbge.org">UPBGE</a><br />
+          <b>Role: </b>(ex) Developer & Admin<br />
+          <b>Experience: </b>Pro
+        <div>
+    </td>
+  </tr>
+</table>
   <!-- Armory3D -->
   <div>
     <img src="https://avatars.githubusercontent.com/u/20436620?s=200&v=4" width=64 /><br />
