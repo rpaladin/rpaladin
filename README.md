@@ -36,53 +36,77 @@
           <b>Name: </b><a href="https://upbge.org">UPBGE</a><br />
           <b>Role: </b>(ex) Developer & Admin<br />
           <b>Experience: </b>Pro
-        <div>
+        </div>
+      </div>
+    </td>
+    <!-- Armory3D -->
+    <td>
+      <div align="center">
+        <img src="https://avatars.githubusercontent.com/u/20436620?s=200&v=4" width=64 /><br />
+        <div align="left">
+          <b>Name: </b><a href="https://armory3d.org">Armory3D</a><br />
+          <b>Role: </b>Developer<br />
+          <b>Experience: </b>Advanced
+        </div>
+      </div>
+    </td>
+    <!-- AssaultCube -->
+    <td>
+      <div align="center">
+        <img src="https://avatars.githubusercontent.com/u/5957666?s=200&v=4" width=64 /></br />
+        <div align="left">
+          <b>Name: </b><a href="https://assault.cubers.net">AssaultCube</a></br />
+          <b>Role: </b>(ex) Contributor</br />
+          <b>Experience: </b>Gamer</p>
+        </div>
+      </div>
+    </td>
+    <!-- PlayCanvas -->
+    <td>
+      <div align="center">
+        <img src="https://avatars.githubusercontent.com/u/1030579?s=200&v=4" width=64 /></br />
+        <div align="left">
+          <b>Name: </b><a href="https://playcanvas.com">PlayCanvas</a></br />
+          <b>Role: </b>Hobbyist</br />
+          <b>Experience: </b>Advanced
+        </div>
+      </div>
+    </td>
+    <!-- Godot -->
+    <td>
+      <div align="center">
+        <img src="https://avatars.githubusercontent.com/u/6318500?s=200&v=4" width=64 /></br />
+        <div align="left">
+          <b>Name: </b><a href="https://godotengine.org">Godot</a></br />
+          <b>Role: </b>Hobbyist</br />
+          <b>Experience: </b>Basics
+        </div>
+      </div>
+    </td>
+    <!-- Unity3D -->
+    <td>
+      <div align="center">
+        <img src="https://avatars.githubusercontent.com/u/13039680?s=200&v=4" width=64 /></br />
+        <div align="left">
+          <b>Name: </b><a href="https://unity3d.com">Unity3D</a></br />
+          <b>Role: </b>Hobbyist</br />
+          <b>Experience: </b>Basics
+         </div>
+      </div>
+    </td>
+    <!-- Blend4Web -->
+    <td>
+      <div align="center">
+        <img src="https://avatars.githubusercontent.com/u/7070926?s=200&v=4" width=64 /></br />
+        <div align="left">
+          <b>Name: </b><a href="https://blend4web.com">Blend4Web</a></br />
+          <b>Role: </b>Hobbyist</br />
+          <b>Experience: </b>Basics
+        </div>
+      </div>
     </td>
   </tr>
 </table>
-  <!-- Armory3D -->
-  <div>
-    <img src="https://avatars.githubusercontent.com/u/20436620?s=200&v=4" width=64 /><br />
-    <b>Name: </b><a href="https://armory3d.org">Armory3D</a><br />
-    <b>Role: </b>Developer<br />
-    <b>Experience: </b>Advanced
-  <div><br />
-  <!-- AssaultCube -->
-  <div>
-    <img src="https://avatars.githubusercontent.com/u/5957666?s=200&v=4" width=64 /></br />
-    <b>Name: </b><a href="https://assault.cubers.net">AssaultCube</a></br />
-    <b>Role: </b>(ex) Contributor</br />
-    <b>Experience: </b>Gamer</p>
-  <div></br />
-  <!-- PlayCanvas -->
-  <div>
-    <img src="https://avatars.githubusercontent.com/u/1030579?s=200&v=4" width=64 /></br />
-    <b>Name: </b><a href="https://playcanvas.com">PlayCanvas</a></br />
-    <b>Role: </b>Hobbyist</br />
-    <b>Experience: </b>Advanced
-  <div></br />
-  <!-- Godot -->
-  <div>
-    <img src="https://avatars.githubusercontent.com/u/6318500?s=200&v=4" width=64 /></br />
-    <b>Name: </b><a href="https://godotengine.org">Godot</a></br />
-    <b>Role: </b>Hobbyist</br />
-    <b>Experience: </b>Basics
-  <div></br />
-  <!-- Unity3D -->
-  <div>
-    <img src="https://avatars.githubusercontent.com/u/13039680?s=200&v=4" width=64 /></br />
-    <b>Name: </b><a href="https://unity3d.com">Unity3D</a></br />
-    <b>Role: </b>Hobbyist</br />
-    <b>Experience: </b>Basics
-  <div></br />
-  <!-- Blend4Web -->
-  <div>
-    <img src="https://avatars.githubusercontent.com/u/7070926?s=200&v=4" width=64 /></br />
-    <b>Name: </b><a href="https://blend4web.com">Blend4Web</a></br />
-    <b>Role: </b>Hobbyist</br />
-    <b>Experience: </b>Basics
-  <div></br />
-</div>
 <h1>Full Stack - Languages</h1>
 <div align="center">
   <!-- HTML -->
