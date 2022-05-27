@@ -24,7 +24,7 @@
         <div align="left">
           <b>Name: </b><a href="https://babylonjs.com">Babylon.js</a><br />
           <b>Role: </b>Admin (discord)<br />
-          <b>Experience: </b>Begineer
+          <b>Experience: </b>Beginner
         </div>
       </div>
     </td>
@@ -184,10 +184,10 @@
 				<div align="left">
 					<b>Name: </b><a href="https://mysql.com">MySQL</a></br />
 					<b>Role: </b>Hobbyist</br />
-					<b>Experience: </b>Baisc
+					<b>Experience: </b>Basic
 				</div>
 			</div>
-		<td>
+		</td>
 		<!-- Node.js -->
 		<td>
 			<div align="center">
@@ -195,10 +195,10 @@
 				<div align="left">
 					<b>Name: </b><a href="https://nodejs.org">Node.js</a></br />
 					<b>Role: </b>Hobbyist</br />
-					<b>Experience: </b>Baisc
+					<b>Experience: </b>Basic
 				</div>
 			</div>
-		<td>
+		</td>
   </tr>
 </table>
 
