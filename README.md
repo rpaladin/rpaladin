@@ -1,8 +1,5 @@
 <!-- SOCIAL LINKS -->
 <div align="center">
-  <a href="https://discord.gg/bn2xx6VkbP">
-    <img src="https://img.shields.io/badge/discord-%23E60023.svg?&color=darkslateblue&style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
   <a href="https://youtube.com/channel/UCPnPW3BMq3Lv--L6XFoVfLA">
     <img src="https://img.shields.io/badge/youtube-%23E60023.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
@@ -12,7 +9,13 @@
   <a href="https://reddit.com/u/randompandagames">
     <img src="https://img.shields.io/badge/reddit-%23E60023.svg?&color=darkorange&style=for-the-badge&logo=reddit&logoColor=white" />
   </a>
-</div><br /><br />
+  <a href="https://discord.gg/bn2xx6VkbP">
+    <img src="https://img.shields.io/badge/Babylon.js Discord-%23E60023.svg?&color=darkslateblue&style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/rtpFtwnZCq">
+    <img src="https://img.shields.io/badge/Armory3D Discord-%23E60023.svg?&color=darkslateblue&style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</div>
 <!-- Full Stack - Software -->
 <h1 align="center">Full Stack - Software</h1>
 <table align="center">
