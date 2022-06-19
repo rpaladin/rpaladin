@@ -15,6 +15,9 @@
   <a href="https://discord.gg/rtpFtwnZCq">
     <img src="https://img.shields.io/badge/Armory3D Discord-%23E60023.svg?&color=darkslateblue&style=for-the-badge&logo=discord&logoColor=white" />
   </a><br />
+  <a href="[https://blenderartists.org/u/rpaladin](https://blender.stackexchange.com/users/123064/rpaladin)">
+    <img src="https://img.shields.io/badge/BlenderStackExchange-%23E60023.svg?&color=lightgrey&style=for-the-badge&logo=stackexchange&logoColor=white" />
+  </a>
   <a href="https://blenderartists.org/u/rpaladin">
     <img src="https://img.shields.io/badge/BlenderArtists Forum-%23E60023.svg?&color=yellow&style=for-the-badge&logo=discourse&logoColor=white" />
   </a>
