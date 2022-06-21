@@ -18,10 +18,10 @@
   <a href="https://blender.stackexchange.com/users/123064/rpaladin">
     <img src="https://img.shields.io/badge/BlenderStackExchange-%23E60023.svg?&color=lightgrey&style=for-the-badge&logo=stackexchange&logoColor=white" />
   </a>
+  <a href="https://reddit.com/u/randompandagames">
+    <img src="https://img.shields.io/badge/reddit-%23E60023.svg?&color=darkorange&style=for-the-badge&logo=reddit&logoColor=white" />
+  </a>
 </div>
-<a href="https://reddit.com/u/randompandagames">
-<img src="https://img.shields.io/badge/reddit-%23E60023.svg?&color=darkorange&style=for-the-badge&logo=reddit&logoColor=white" />
-</a>
 <!-- Full Stack - Software -->
 <h1 align="center">Full Stack - Software</h1>
 <table align="center">
