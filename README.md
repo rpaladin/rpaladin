@@ -33,7 +33,7 @@
         <div align="left">
           <b>Name: </b><a href="https://babylonjs.com">Babylon.js</a><br />
           <b>Role: </b>Admin (discord)<br />
-          <b>Experience: </b>Beginner
+          <b>Experience: </b>Basics
         </div>
       </div>
     </td>
