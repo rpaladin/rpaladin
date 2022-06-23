@@ -204,7 +204,7 @@
 				<div align="left">
 					<b>Name: </b><a href="https://nodejs.org">Node.js</a></br />
 					<b>Role: </b>Hobbyist</br />
-					<b>Experience: </b>Advance
+					<b>Experience: </b>Advanced
 				</div>
 			</div>
 		</td>
