@@ -193,7 +193,7 @@
 				<div align="left">
 					<b>Name: </b><a href="https://mysql.com">MySQL</a></br />
 					<b>Role: </b>Hobbyist</br />
-					<b>Experience: </b>Basic
+					<b>Experience: </b>Basics
 				</div>
 			</div>
 		</td>
@@ -204,7 +204,7 @@
 				<div align="left">
 					<b>Name: </b><a href="https://nodejs.org">Node.js</a></br />
 					<b>Role: </b>Hobbyist</br />
-					<b>Experience: </b>Basic
+					<b>Experience: </b>Advance
 				</div>
 			</div>
 		</td>
