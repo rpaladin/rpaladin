@@ -3,11 +3,11 @@
   <a href="https://youtube.com/channel/UCPnPW3BMq3Lv--L6XFoVfLA">
     <img src="https://img.shields.io/badge/youtube-%23E60023.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://discord.gg/bn2xx6VkbP">
-    <img src="https://img.shields.io/badge/Babylon.js Discord-%23E60023.svg?&color=darkslateblue&style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
   <a href="https://discord.gg/rtpFtwnZCq">
     <img src="https://img.shields.io/badge/Armory3D Discord-%23E60023.svg?&color=darkslateblue&style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/bn2xx6VkbP">
+    <img src="https://img.shields.io/badge/Babylon.js Discord-%23E60023.svg?&color=darkslateblue&style=for-the-badge&logo=discord&logoColor=white" />
   </a><br />
   <a href="https://twitter.com/rpaladin_01">
     <img src="https://img.shields.io/badge/twitter-%23E60023.svg?&color=blue&style=for-the-badge&logo=twitter&logoColor=white" />
