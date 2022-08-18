@@ -160,7 +160,7 @@
         <div align="left">
           <b>Name: </b><a href="https://www.javascript.com">JavaScript</a></br />
           <b>Role: </b>User</br />
-          <b>Experience: </b>Advanced
+          <b>Experience: </b>Pro
         </div>
       </div>
     </td>
@@ -171,7 +171,7 @@
         <div align="left">
           <b>Name: </b><a href="https://getbootstrap.com">Uikit</a></br />
           <b>Role: </b>User</br />
-          <b>Experience: </b>Advanced
+          <b>Experience: </b>Pro
         </div>
       </div>
     </td>
@@ -215,7 +215,7 @@
         <div align="left">
           <b>Name: </b><a href="https://nodejs.org">Node.js</a></br />
           <b>Role: </b>User</br />
-          <b>Experience: </b>Basics
+          <b>Experience: </b>Advanced
         </div>
       </div>
     </td>
