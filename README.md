@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/twitter-%23E60023.svg?&color=blue&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://blenderartists.org/u/rpaladin">
-    <img src="https://img.shields.io/badge/BlenderArtists Forum-%23E60023.svg?&color=yellow&style=for-the-badge&logo=discourse&logoColor=white" />
+    <img src="https://img.shields.io/badge/BlenderArtists-%23E60023.svg?&color=yellow&style=for-the-badge&logo=discourse&logoColor=white" />
   </a>
   <a href="https://blender.stackexchange.com/users/123064/rpaladin">
     <img src="https://img.shields.io/badge/BlenderStackExchange-%23E60023.svg?&color=lightgrey&style=for-the-badge&logo=stackexchange&logoColor=white" />
