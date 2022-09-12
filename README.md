@@ -23,7 +23,7 @@
   </a>
 </div>
 <!-- Full Stack - Software -->
-<h1 align="center">Full Stack - Software</h1>
+<h1 align="center">Full Stack - Software & Frameworks</h1>
 <table align="center">
   <tr>
     <!-- Babylon.js -->
