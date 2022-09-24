@@ -37,17 +37,6 @@
         </div>
       </div>
     </td>
-    <!-- UPBGE -->
-    <td>
-      <div align="center">
-        <img src="https://avatars.githubusercontent.com/u/16006310?s=200&v=4" width=64 /><br />
-        <div align="left">
-          <b>Name: </b><a href="https://upbge.org">UPBGE</a><br />
-          <b>Role: </b>Former Admin & Developer<br />
-          <b>Experience: </b>Pro
-        </div>
-      </div>
-    </td>
     <!-- Armory3D -->
     <td>
       <div align="center">
@@ -56,6 +45,17 @@
           <b>Name: </b><a href="https://armory3d.org">Armory3D</a><br />
           <b>Role: </b>Moderator & Developer<br />
           <b>Experience: </b>Advanced
+        </div>
+      </div>
+    </td>
+    <!-- UPBGE -->
+    <td>
+      <div align="center">
+        <img src="https://avatars.githubusercontent.com/u/16006310?s=200&v=4" width=64 /><br />
+        <div align="left">
+          <b>Name: </b><a href="https://upbge.org">UPBGE</a><br />
+          <b>Role: </b>Former Admin & Developer<br />
+          <b>Experience: </b>Pro
         </div>
       </div>
     </td>
