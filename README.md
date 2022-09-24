@@ -66,7 +66,7 @@
         <div align="left">
           <b>Name: </b><a href="https://assault.cubers.net">AssaultCube</a></br />
           <b>Role: </b>Former Contributor, Gamer</br />
-          <b>Experience: </b>N/A</b>
+          <b>Experience: </b>Casual</b>
         </div>
       </div>
     </td>
@@ -175,6 +175,17 @@
         </div>
       </div>
     </td>
+    <!-- Node.js -->
+    <td>
+      <div align="center">
+        <img src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" width=64 /></br />
+        <div align="left">
+          <b>Name: </b><a href="https://nodejs.org">Node.js</a></br />
+          <b>Role: </b>User</br />
+          <b>Experience: </b>Advanced
+        </div>
+      </div>
+    </td>
     <!-- Uikit -->
     <td>
       <div align="center">
@@ -205,17 +216,6 @@
           <b>Name: </b><a href="https://mysql.com">MySQL</a></br />
           <b>Role: </b>User</br />
           <b>Experience: </b>Basics
-        </div>
-      </div>
-    </td>
-    <!-- Node.js -->
-    <td>
-      <div align="center">
-        <img src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" width=64 /></br />
-        <div align="left">
-          <b>Name: </b><a href="https://nodejs.org">Node.js</a></br />
-          <b>Role: </b>User</br />
-          <b>Experience: </b>Advanced
         </div>
       </div>
     </td>
