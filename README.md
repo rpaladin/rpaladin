@@ -3,7 +3,7 @@
   <a href="https://youtube.com/channel/UCPnPW3BMq3Lv--L6XFoVfLA">
     <img src="https://img.shields.io/badge/youtube-%23E60023.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://discord.gg/rtpFtwnZCq">
+  <a href="https://discord.gg/xqrKhGjVJk">
     <img src="https://img.shields.io/badge/Armory3D Discord-%23E60023.svg?&color=darkslateblue&style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://discord.gg/bn2xx6VkbP">
