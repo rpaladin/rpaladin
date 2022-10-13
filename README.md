@@ -65,7 +65,7 @@
         <img src="https://avatars.githubusercontent.com/u/5957666?s=200&v=4" width=64 /></br />
         <div align="left">
           <b>Name: </b><a href="https://assault.cubers.net">AssaultCube</a></br />
-          <b>Role: </b>Former Contributor, Gamer</br />
+          <b>Role: </b>Gamer, Former Contributor</br />
           <b>Experience: </b>Casual</b>
         </div>
       </div>
