@@ -26,17 +26,6 @@
 <h1 align="center">Full Stack - Software & Frameworks</h1>
 <table align="center">
   <tr>
-    <!-- Babylon.js -->
-    <td>
-      <div align="center">
-        <img src="https://avatars.githubusercontent.com/u/4855800?s=200&v=4" width=64 /><br />
-        <div align="left">
-          <b>Name: </b><a href="https://babylonjs.com">Babylon.js</a><br />
-          <b>Role: </b>Discord Admin<br />
-          <b>Experience: </b>Basics
-        </div>
-      </div>
-    </td>
     <!-- Armory3D -->
     <td>
       <div align="center">
@@ -45,6 +34,17 @@
           <b>Name: </b><a href="https://armory3d.org">Armory3D</a><br />
           <b>Role: </b>Moderator & Developer<br />
           <b>Experience: </b>Advanced
+        </div>
+      </div>
+    </td>
+    <!-- Babylon.js -->
+    <td>
+      <div align="center">
+        <img src="https://avatars.githubusercontent.com/u/4855800?s=200&v=4" width=64 /><br />
+        <div align="left">
+          <b>Name: </b><a href="https://babylonjs.com">Babylon.js</a><br />
+          <b>Role: </b>Discord Admin<br />
+          <b>Experience: </b>Basics
         </div>
       </div>
     </td>
