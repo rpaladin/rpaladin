@@ -208,6 +208,10 @@
         </div>
       </div>
     </td>
+  </tr>
+</table>
+<table>
+  <tr>
     <!-- MySQL -->
     <td>
       <div align="center">
