@@ -222,5 +222,12 @@
   </tr>
 </table>
 
+<!-- Top Languages + Github Stats -->
+
 |  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpaladin&layout=compact&theme=ayu-mirage&show_icons=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=rpaladin&theme=ayu-mirage&show_icons=true" />
+| ------------- | ------------- |
+
+<!-- Armory Website + UPBGE Website -->
+
+|  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=armory3d&layout=compact&theme=ayu-mirage&show_icons=true](https://github-readme-stats.vercel.app/api/pin/?username=armory3d&repo=armory_web&show_owner=true&theme=ayu-mirage" href="https://github.com/armory3d/armory_web" /> | <img align="center" src="[https://github-readme-stats.vercel.app/api?username=upbge&theme=ayu-mirage&show_icons=true](https://github-readme-stats.vercel.app/api/pin/?username=upbge&layout=compact&theme=ayu-mirage&show_icons=true](https://github-readme-stats.vercel.app/api/pin/?username=upbge&repo=upbge.igithub.io&show_owner=true&theme=ayu-mirage)" />
 | ------------- | ------------- |
