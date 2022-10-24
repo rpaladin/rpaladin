@@ -229,5 +229,5 @@
 
 <!-- Armory Website + UPBGE Website -->
 
-|  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=armory3d&repo=armory_web&theme=ayu-mirage&show_icons=true&show_owner=true" href="https://github.com/armory3d/armory_web" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=upbge&repo=upbge.github.io&theme=ayu-mirage&show_icons=true&show_owner=true" href="https://github-readme-stats.vercel.app/api/pin/?username=upbge&repo=upbge.igithub.io&show_owner=true&theme=ayu-mirage" />
+|  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=armory3d&repo=armory_web&theme=ayu-mirage&show_icons=true&show_owner=true" href="https://github.com/armory3d/armory_web" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=upbge&repo=upbge.github.io&theme=ayu-mirage&show_icons=true&show_owner=true" href="https://github.com/upbge/upbge.github.io" />
 | ------------- | ------------- |
