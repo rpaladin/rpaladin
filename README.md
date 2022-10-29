@@ -33,7 +33,7 @@
         <div align="left">
           <b>Name: </b><a href="https://armory3d.org">Armory3D</a><br />
           <b>Role: </b>Moderator & Developer<br />
-          <b>Experience: </b>Advanced
+          <b>Experience: </b>Pro
         </div>
       </div>
     </td>
@@ -45,6 +45,17 @@
           <b>Name: </b><a href="https://babylonjs.com">Babylon.js</a><br />
           <b>Role: </b>Discord Admin<br />
           <b>Experience: </b>Basics
+        </div>
+      </div>
+    </td>
+    <!-- Range -->
+    <td>
+      <div align="center">
+        <img src="https://avatars.githubusercontent.com/u/112126963?s=200&v=4" width=64 /><br />
+        <div align="left">
+          <b>Name: </b><a href="https://rangeengine.tech">Range</a><br />
+          <b>Role: </b>Moderator<br />
+          <b>Experience: </b>Pro
         </div>
       </div>
     </td>
