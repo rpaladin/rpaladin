@@ -114,6 +114,10 @@
          </div>
       </div>
     </td>
+  </tr>
+</table>
+<table>
+  <tr>
     <!-- Blend4Web -->
     <td>
       <div align="center">
