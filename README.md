@@ -22,8 +22,8 @@
     <img src="https://img.shields.io/badge/reddit-%23E60023.svg?&color=darkorange&style=for-the-badge&logo=reddit&logoColor=white" />
   </a>
 </div>
-<!-- Full Stack - Software -->
-<h1 align="center">Full Stack - Software & Frameworks</h1>
+<!-- Full Stack - Game Engines & Game -->
+<h1 align="center">Full Stack - Game Engines & Game</h1>
 <table align="center">
   <tr>
     <!-- Armory3D -->
@@ -33,7 +33,7 @@
         <div align="left">
           <b>Name: </b><a href="https://armory3d.org">Armory3D</a><br />
           <b>Role: </b>Moderator & Developer<br />
-          <b>Experience: </b>Pro
+          <b>Skill: </b>Pro
         </div>
       </div>
     </td>
@@ -44,18 +44,18 @@
         <div align="left">
           <b>Name: </b><a href="https://babylonjs.com">Babylon.js</a><br />
           <b>Role: </b>Discord Admin<br />
-          <b>Experience: </b>Basics
+          <b>Skill: </b>Basics
         </div>
       </div>
     </td>
-    <!-- Range -->
+    <!-- RangeEngine -->
     <td>
       <div align="center">
         <img src="https://avatars.githubusercontent.com/u/112126963?s=200&v=4" width=64 /><br />
         <div align="left">
-          <b>Name: </b><a href="https://rangeengine.tech">Range</a><br />
+          <b>Name: </b><a href="https://rangeengine.tech">RangeEngine</a><br />
           <b>Role: </b>Moderator<br />
-          <b>Experience: </b>Pro
+          <b>Skill: </b>Pro
         </div>
       </div>
     </td>
@@ -66,7 +66,7 @@
         <div align="left">
           <b>Name: </b><a href="https://upbge.org">UPBGE</a><br />
           <b>Role: </b>Former Admin & Developer<br />
-          <b>Experience: </b>Pro
+          <b>Skill: </b>Pro
         </div>
       </div>
     </td>
@@ -77,7 +77,7 @@
         <div align="left">
           <b>Name: </b><a href="https://assault.cubers.net">AssaultCube</a></br />
           <b>Role: </b>Gamer, Former Contributor</br />
-          <b>Experience: </b>Casual</b>
+          <b>Skill: </b>Casual</b>
         </div>
       </div>
     </td>
@@ -88,10 +88,14 @@
         <div align="left">
           <b>Name: </b><a href="https://playcanvas.com">PlayCanvas</a></br />
           <b>Role: </b>User</br />
-          <b>Experience: </b>Advanced
+          <b>Skill: </b>Advanced
         </div>
       </div>
     </td>
+  </tr>
+</table>
+<table>
+  <tr>
     <!-- Godot -->
     <td>
       <div align="center">
@@ -99,7 +103,7 @@
         <div align="left">
           <b>Name: </b><a href="https://godotengine.org">Godot</a></br />
           <b>Role: </b>User</br />
-          <b>Experience: </b>Basics
+          <b>Skill: </b>Basics
         </div>
       </div>
     </td>
@@ -110,14 +114,10 @@
         <div align="left">
           <b>Name: </b><a href="https://unity3d.com">Unity3D</a></br />
           <b>Role: </b>User</br />
-          <b>Experience: </b>Basics
+          <b>Skill: </b>Basics
          </div>
       </div>
     </td>
-  </tr>
-</table>
-<table>
-  <tr>
     <!-- Blend4Web -->
     <td>
       <div align="center">
@@ -125,14 +125,14 @@
         <div align="left">
           <b>Name: </b><a href="https://blend4web.com">Blend4Web</a></br />
           <b>Role: </b>User</br />
-          <b>Experience: </b>Basics
+          <b>Skill: </b>Basics
         </div>
       </div>
     </td>
   </tr>
 </table>
-<!-- Full Stack - Languages -->
-<h1 align="center">Full Stack - Languages</h1>
+<!-- Full Stack - Languages & Frameworks -->
+<h1 align="center">Full Stack - Languages & Frameworks</h1>
 <table>
   <tr>
     <!-- HTML5 -->
@@ -142,7 +142,7 @@
         <div align="left">
           <b>Name: </b><a href="https://developer.mozilla.org">HTML</a></br />
           <b>Role: </b>User</br />
-          <b>Experience: </b>Pro
+          <b>Skill: </b>Pro
         </div>
       </div>
     </td>
@@ -153,7 +153,7 @@
         <div align="left">
           <b>Name: </b><a href="https://developer.mozilla.org">CSS</a></br />
           <b>Role: </b>User</br />
-          <b>Experience: </b>Pro
+          <b>Skill: </b>Pro
         </div>
       </div>
     </td>
@@ -164,7 +164,7 @@
         <div align="left">
           <b>Name: </b><a href="https://python.org">Python</a></br />
           <b>Role: </b>User</br />
-          <b>Experience: </b>Pro
+          <b>Skill: </b>Pro
         </div>
       </div>
     </td>
@@ -175,7 +175,7 @@
         <div align="left">
           <b>Name: </b><a href="https://www.javascript.com">JavaScript</a></br />
           <b>Role: </b>User</br />
-          <b>Experience: </b>Pro
+          <b>Skill: </b>Pro
         </div>
       </div>
     </td>
@@ -186,7 +186,7 @@
         <div align="left">
           <b>Name: </b><a href="https://getbootstrap.com">Uikit</a></br />
           <b>Role: </b>User</br />
-          <b>Experience: </b>Pro
+          <b>Skill: </b>Pro
         </div>
       </div>
     </td>
@@ -197,10 +197,14 @@
         <div align="left">
           <b>Name: </b><a href="https://nodejs.org">Node.js</a></br />
           <b>Role: </b>User</br />
-          <b>Experience: </b>Advanced
+          <b>Skill: </b>Advanced
         </div>
       </div>
     </td>
+  </tr>
+</table>
+<table>
+  <tr>
     <!-- Uikit -->
     <td>
       <div align="center">
@@ -208,7 +212,18 @@
         <div align="left">
           <b>Name: </b><a href="https://getuikit.com">Uikit</a></br />
           <b>Role: </b>User</br />
-          <b>Experience: </b>Advanced
+          <b>Skill: </b>Advanced
+        </div>
+      </div>
+    </td>
+    <!-- Haxe -->
+    <td>
+      <div align="center">
+        <img src="https://avatars.githubusercontent.com/u/3826779?s=200&v=4" width=64 /></br />
+        <div align="left">
+          <b>Name: </b><a href="https://haxe.org">Haxe</a></br />
+          <b>Role: </b>User</br />
+          <b>Skill: </b>Basics
         </div>
       </div>
     </td>
@@ -219,14 +234,10 @@
         <div align="left">
           <b>Name: </b><a href="http://tailwindcss.com">Tailwind CSS</a></br />
           <b>Role: </b>User</br />
-          <b>Experience: </b>Basics
+          <b>Skill: </b>Basics
         </div>
       </div>
     </td>
-  </tr>
-</table>
-<table>
-  <tr>
     <!-- MySQL -->
     <td>
       <div align="center">
@@ -234,7 +245,7 @@
         <div align="left">
           <b>Name: </b><a href="https://mysql.com">MySQL</a></br />
           <b>Role: </b>User</br />
-          <b>Experience: </b>Basics
+          <b>Skill: </b>Basics
         </div>
       </div>
     </td>
