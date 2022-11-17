@@ -54,7 +54,7 @@
         <img src="https://avatars.githubusercontent.com/u/112126963?s=200&v=4" width=64 /><br />
         <div align="left">
           <b>Name: </b><a href="https://rangeengine.tech">RangeEngine</a><br />
-          <b>Role: </b>Moderator<br />
+          <b>Role: </b>Admin<br />
           <b>Skill: </b>Pro
         </div>
       </div>
@@ -179,6 +179,21 @@
         </div>
       </div>
     </td>
+    <!-- Haxe -->
+    <td>
+      <div align="center">
+        <img src="https://avatars.githubusercontent.com/u/3826779?s=200&v=4" width=64 /></br />
+        <div align="left">
+          <b>Name: </b><a href="https://haxe.org">Haxe</a></br />
+          <b>Role: </b>User</br />
+          <b>Skill: </b>Basics
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
     <!-- Bootstrap -->
     <td>
       <div align="center">
@@ -201,10 +216,6 @@
         </div>
       </div>
     </td>
-  </tr>
-</table>
-<table>
-  <tr>
     <!-- Uikit -->
     <td>
       <div align="center">
@@ -213,17 +224,6 @@
           <b>Name: </b><a href="https://getuikit.com">Uikit</a></br />
           <b>Role: </b>User</br />
           <b>Skill: </b>Advanced
-        </div>
-      </div>
-    </td>
-    <!-- Haxe -->
-    <td>
-      <div align="center">
-        <img src="https://avatars.githubusercontent.com/u/3826779?s=200&v=4" width=64 /></br />
-        <div align="left">
-          <b>Name: </b><a href="https://haxe.org">Haxe</a></br />
-          <b>Role: </b>User</br />
-          <b>Skill: </b>Basics
         </div>
       </div>
     </td>
