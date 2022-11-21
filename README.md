@@ -33,7 +33,7 @@
         <div align="left">
           <b>Name: </b><a href="https://armory3d.org">Armory3D</a><br />
           <b>Role: </b>Moderator & Developer<br />
-          <b>Skill: </b>Pro
+          <b>Skill: </b>Advanced
         </div>
       </div>
     </td>
@@ -223,7 +223,7 @@
         <div align="left">
           <b>Name: </b><a href="https://getuikit.com">Uikit</a></br />
           <b>Role: </b>User</br />
-          <b>Skill: </b>Advanced
+          <b>Skill: </b>Basics
         </div>
       </div>
     </td>
