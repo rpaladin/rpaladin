@@ -186,7 +186,7 @@
         <div align="left">
           <b>Name: </b><a href="https://haxe.org">Haxe</a></br />
           <b>Role: </b>User</br />
-          <b>Skill: </b>Basics
+          <b>Skill: </b>Advanced
         </div>
       </div>
     </td>
