@@ -33,7 +33,7 @@
         <div align="left">
           <b>Name: </b><a href="https://armory3d.org">Armory3D</a><br />
           <b>Role: </b>Moderator & Developer<br />
-          <b>Skill: </b>Advanced
+          <b>Skill: </b>Pro
         </div>
       </div>
     </td>
