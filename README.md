@@ -190,6 +190,17 @@
         </div>
       </div>
     </td>
+    <!-- MySQL -->
+    <td>
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width=64 /></br />
+        <div align="left">
+          <b>Name: </b><a href="https://mysql.com">MySQL</a></br />
+          <b>Role: </b>User</br />
+          <b>Skill: </b>Basics
+        </div>
+      </div>
+    </td>
   </tr>
 </table>
 <table>
@@ -233,17 +244,6 @@
         <img src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" width=64 /></br />
         <div align="left">
           <b>Name: </b><a href="http://tailwindcss.com">Tailwind CSS</a></br />
-          <b>Role: </b>User</br />
-          <b>Skill: </b>Basics
-        </div>
-      </div>
-    </td>
-    <!-- MySQL -->
-    <td>
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width=64 /></br />
-        <div align="left">
-          <b>Name: </b><a href="https://mysql.com">MySQL</a></br />
           <b>Role: </b>User</br />
           <b>Skill: </b>Basics
         </div>
