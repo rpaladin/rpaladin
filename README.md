@@ -190,6 +190,17 @@
         </div>
       </div>
     </td>
+    <!-- GLSL -->
+    <td>
+      <div align="center">
+        <img src="https://avatars.githubusercontent.com/u/1608701?s=200&v=4" width=64 /></br />
+        <div align="left">
+          <b>Name: </b><a href="https://khronos.org">GLSL</a></br />
+          <b>Role: </b>User</br />
+          <b>Skill: </b>Basics
+        </div>
+      </div>
+    </td>
     <!-- MySQL -->
     <td>
       <div align="center">
