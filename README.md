@@ -26,12 +26,12 @@
 <h1 align="center">Full Stack - Game Engines & Game</h1>
 <table align="center">
   <tr>
-    <!-- Armory3D -->
+    <!-- Armory -->
     <td>
       <div align="center">
         <img src="https://avatars.githubusercontent.com/u/20436620?s=200&v=4" width=64 /><br />
         <div align="left">
-          <b>Name: </b><a href="https://armory3d.org">Armory3D</a><br />
+          <b>Name: </b><a href="https://armory3d.org">Armory</a><br />
           <b>Role: </b>Moderator & Developer<br />
           <b>Skill: </b>Pro
         </div>
@@ -48,12 +48,12 @@
         </div>
       </div>
     </td>
-    <!-- RangeEngine -->
+    <!-- RanGE -->
     <td>
       <div align="center">
         <img src="https://avatars.githubusercontent.com/u/112126963?s=200&v=4" width=64 /><br />
         <div align="left">
-          <b>Name: </b><a href="https://rangeengine.tech">RangeEngine</a><br />
+          <b>Name: </b><a href="https://rangeengine.tech">RanGE</a><br />
           <b>Role: </b>Admin<br />
           <b>Skill: </b>Pro
         </div>
@@ -107,12 +107,12 @@
         </div>
       </div>
     </td>
-    <!-- Unity3D -->
+    <!-- Unity -->
     <td>
       <div align="center">
         <img src="https://avatars.githubusercontent.com/u/13039680?s=200&v=4" width=64 /></br />
         <div align="left">
-          <b>Name: </b><a href="https://unity3d.com">Unity3D</a></br />
+          <b>Name: </b><a href="https://unity3d.com">Unity</a></br />
           <b>Role: </b>User</br />
           <b>Skill: </b>Basics
          </div>
@@ -140,7 +140,7 @@
       <div align="center">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width=64 /></br />
         <div align="left">
-          <b>Name: </b><a href="https://developer.mozilla.org">HTML</a></br />
+          <b>Name: </b><a href="https://developer.mozilla.org">HTML5</a></br />
           <b>Role: </b>User</br />
           <b>Skill: </b>Pro
         </div>
@@ -151,18 +151,18 @@
       <div align="center">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width=64 /></br />
         <div align="left">
-          <b>Name: </b><a href="https://developer.mozilla.org">CSS</a></br />
+          <b>Name: </b><a href="https://developer.mozilla.org">CSS3</a></br />
           <b>Role: </b>User</br />
           <b>Skill: </b>Pro
         </div>
       </div>
     </td>
-    <!-- Python3 -->
+    <!-- Python 2.0 / 3.0 -->
     <td>
       <div align="center">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width=64 /></br />
         <div align="left">
-          <b>Name: </b><a href="https://python.org">Python</a></br />
+          <b>Name: </b><a href="https://python.org">Python 2.0 / 3.0</a></br />
           <b>Role: </b>User</br />
           <b>Skill: </b>Pro
         </div>
@@ -179,12 +179,12 @@
         </div>
       </div>
     </td>
-    <!-- Bootstrap -->
+    <!-- Bootstrap 5 -->
     <td>
       <div align="center">
         <img src="https://avatars.githubusercontent.com/u/2918581?s=200&v=4" width=64 /></br />
         <div align="left">
-          <b>Name: </b><a href="https://getbootstrap.com">Uikit</a></br />
+          <b>Name: </b><a href="https://getbootstrap.com">Bootstrap 5</a></br />
           <b>Role: </b>User</br />
           <b>Skill: </b>Pro
         </div>
@@ -216,23 +216,23 @@
 </table>
 <table>
   <tr>
-    <!-- Uikit -->
+    <!-- UIkit -->
     <td>
       <div align="center">
         <img src="https://avatars.githubusercontent.com/u/4173184?s=200&v=4" width=64 /></br />
         <div align="left">
-          <b>Name: </b><a href="https://getuikit.com">Uikit</a></br />
+          <b>Name: </b><a href="https://getuikit.com">UIkit</a></br />
           <b>Role: </b>User</br />
           <b>Skill: </b>Basics
         </div>
       </div>
     </td>
-    <!-- GLSL -->
+    <!-- GLSL 2.0 / 3.0 -->
     <td>
       <div align="center">
         <img src="https://avatars.githubusercontent.com/u/1608701?s=200&v=4" width=64 /></br />
         <div align="left">
-          <b>Name: </b><a href="https://khronos.org">GLSL</a></br />
+          <b>Name: </b><a href="https://khronos.org">GLSL 2.0 / 3.0</a></br />
           <b>Role: </b>User</br />
           <b>Skill: </b>Basics
         </div>
