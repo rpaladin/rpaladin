@@ -260,6 +260,17 @@
         </div>
       </div>
     </td>
+    <!-- Java -->
+    <td>
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width=64 /></br />
+        <div align="left">
+          <b>Name: </b><a href="https://java.com/en">Java</a></br />
+          <b>Role: </b>User</br />
+          <b>Skill: </b>Basics
+        </div>
+      </div>
+    </td>
     <!-- C# -->
     <td>
       <div align="center">
