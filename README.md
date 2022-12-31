@@ -1,25 +1,28 @@
 <!-- SOCIAL LINKS -->
 <div align="center">
-  <a href="https://youtube.com/channel/UCPnPW3BMq3Lv--L6XFoVfLA">
-    <img src="https://img.shields.io/badge/youtube-%23E60023.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/xqrKhGjVJk">
-    <img src="https://img.shields.io/badge/Armory3D Discord-%23E60023.svg?&color=darkslateblue&style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/bn2xx6VkbP">
-    <img src="https://img.shields.io/badge/Babylon.js Discord-%23E60023.svg?&color=darkslateblue&style=for-the-badge&logo=discord&logoColor=white" />
-  </a><br />
   <a href="https://twitter.com/rpaladin_01">
     <img src="https://img.shields.io/badge/twitter-%23E60023.svg?&color=blue&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://blenderartists.org/u/rpaladin">
-    <img src="https://img.shields.io/badge/BlenderArtists-%23E60023.svg?&color=yellow&style=for-the-badge&logo=discourse&logoColor=white" />
+  <a href="https://youtube.com/channel/UCPnPW3BMq3Lv--L6XFoVfLA">
+    <img src="https://img.shields.io/badge/youtube-%23E60023.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://blender.stackexchange.com/users/123064/rpaladin">
     <img src="https://img.shields.io/badge/BlenderStackExchange-%23E60023.svg?&color=lightgrey&style=for-the-badge&logo=stackexchange&logoColor=white" />
   </a>
   <a href="https://reddit.com/u/randompandagames">
     <img src="https://img.shields.io/badge/reddit-%23E60023.svg?&color=darkorange&style=for-the-badge&logo=reddit&logoColor=white" />
+  </a><br />
+  <a href="https://discord.gg/xqrKhGjVJk">
+    <img src="https://img.shields.io/badge/Armory3D Discord-%23E60023.svg?&color=darkslateblue&style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/bn2xx6VkbP">
+    <img src="https://img.shields.io/badge/Babylon.js Discord-%23E60023.svg?&color=darkslateblue&style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://forums.armory3d.org/u/rpaladin">
+    <img src="https://img.shields.io/badge/Armory3D Forum-%23E60023.svg?&color=yellow&style=for-the-badge&logo=discourse&logoColor=white" />
+  </a>
+  <a href="https://blenderartists.org/u/rpaladin">
+    <img src="https://img.shields.io/badge/BlenderArtists-%23E60023.svg?&color=yellow&style=for-the-badge&logo=discourse&logoColor=white" />
   </a>
 </div>
 <!-- Full Stack - Game Engines & Game -->
