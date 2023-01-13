@@ -138,34 +138,34 @@
 <h1 align="center">Full Stack - Languages & Frameworks</h1>
 <table>
   <tr>
-    <!-- HTML5 -->
+    <!-- HTML -->
     <td>
       <div align="center">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width=64 /></br />
         <div align="left">
-          <b>Name: </b><a href="https://developer.mozilla.org">HTML5</a></br />
+          <b>Name: </b><a href="https://developer.mozilla.org">HTML</a></br />
           <b>Role: </b>User</br />
           <b>Skill: </b>Pro
         </div>
       </div>
     </td>
-    <!-- CSS3 -->
+    <!-- CSS -->
     <td>
       <div align="center">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width=64 /></br />
         <div align="left">
-          <b>Name: </b><a href="https://developer.mozilla.org">CSS3</a></br />
+          <b>Name: </b><a href="https://developer.mozilla.org">CSS</a></br />
           <b>Role: </b>User</br />
           <b>Skill: </b>Pro
         </div>
       </div>
     </td>
-    <!-- Python 2.0 / 3.0 -->
+    <!-- -->
     <td>
       <div align="center">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width=64 /></br />
         <div align="left">
-          <b>Name: </b><a href="https://python.org">Python 2.0 / 3.0</a></br />
+          <b>Name: </b><a href="https://python.org">Python</a></br />
           <b>Role: </b>User</br />
           <b>Skill: </b>Pro
         </div>
@@ -182,12 +182,12 @@
         </div>
       </div>
     </td>
-    <!-- Bootstrap 5 -->
+    <!-- Bootstrap -->
     <td>
       <div align="center">
         <img src="https://avatars.githubusercontent.com/u/2918581?s=200&v=4" width=64 /></br />
         <div align="left">
-          <b>Name: </b><a href="https://getbootstrap.com">Bootstrap 5</a></br />
+          <b>Name: </b><a href="https://getbootstrap.com">Bootstrap</a></br />
           <b>Role: </b>User</br />
           <b>Skill: </b>Pro
         </div>
@@ -219,34 +219,23 @@
 </table>
 <table>
   <tr>
+    <!-- GLSL -->
+    <td>
+      <div align="center">
+        <img src="https://avatars.githubusercontent.com/u/1608701?s=200&v=4" width=64 /></br />
+        <div align="left">
+          <b>Name: </b><a href="https://khronos.org">GLSL</a></br />
+          <b>Role: </b>User</br />
+          <b>Skill: </b>Advanced
+        </div>
+      </div>
+    </td>
     <!-- UIkit -->
     <td>
       <div align="center">
         <img src="https://avatars.githubusercontent.com/u/4173184?s=200&v=4" width=64 /></br />
         <div align="left">
           <b>Name: </b><a href="https://getuikit.com">UIkit</a></br />
-          <b>Role: </b>User</br />
-          <b>Skill: </b>Basics
-        </div>
-      </div>
-    </td>
-    <!-- GLSL 2.0 / 3.0 -->
-    <td>
-      <div align="center">
-        <img src="https://avatars.githubusercontent.com/u/1608701?s=200&v=4" width=64 /></br />
-        <div align="left">
-          <b>Name: </b><a href="https://khronos.org">GLSL 2.0 / 3.0</a></br />
-          <b>Role: </b>User</br />
-          <b>Skill: </b>Basics
-        </div>
-      </div>
-    </td>
-    <!-- TailwindCSS -->
-    <td>
-      <div align="center">
-        <img src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" width=64 /></br />
-        <div align="left">
-          <b>Name: </b><a href="http://tailwindcss.com">Tailwind CSS</a></br />
           <b>Role: </b>User</br />
           <b>Skill: </b>Basics
         </div>
@@ -263,23 +252,34 @@
         </div>
       </div>
     </td>
-    <!-- Java -->
-    <td>
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width=64 /></br />
-        <div align="left">
-          <b>Name: </b><a href="https://java.com/en">Java</a></br />
-          <b>Role: </b>User</br />
-          <b>Skill: </b>Basics
-        </div>
-      </div>
-    </td>
     <!-- C# -->
     <td>
       <div align="center">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width=64 /></br />
         <div align="left">
           <b>Name: </b><a href="https://dotnet.microsoft.com/en-us/download">C#</a></br />
+          <b>Role: </b>User</br />
+          <b>Skill: </b>Basics
+        </div>
+      </div>
+    </td>
+    <!-- TailwindCSS -->
+    <td>
+      <div align="center">
+        <img src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" width=64 /></br />
+        <div align="left">
+          <b>Name: </b><a href="http://tailwindcss.com">Tailwind CSS</a></br />
+          <b>Role: </b>User</br />
+          <b>Skill: </b>Basics
+        </div>
+      </div>
+    </td>
+    <!-- Java -->
+    <td>
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width=64 /></br />
+        <div align="left">
+          <b>Name: </b><a href="https://java.com/en">Java</a></br />
           <b>Role: </b>User</br />
           <b>Skill: </b>Basics
         </div>
