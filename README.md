@@ -73,6 +73,10 @@
         </div>
       </div>
     </td>
+  </tr>
+</table>
+<table>
+  <tr>
     <!-- AssaultCube -->
     <td>
       <div align="center">
@@ -84,10 +88,6 @@
         </div>
       </div>
     </td>
-  </tr>
-</table>
-<table>
-  <tr>
     <!-- PlayCanvas -->
     <td>
       <div align="center">
