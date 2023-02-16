@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/BlenderArtists-%23E60023.svg?&color=yellow&style=for-the-badge&logo=discourse&logoColor=white" />
   </a>
 </div>
-<!-- Full Stack - Languages & Frameworks -->
+<!-- Full Stack -->
 <h1 align="center">Full Stack - Languages & Frameworks</h1>
 <table>
   <tr>
@@ -178,9 +178,7 @@
     </td>
   </tr>
 </table>
-<!-- Full Stack - Game Engines & Game -->
-<h1 align="center">Full Stack - Game Engines & Game</h1>
-<table align="center">
+<table>
   <tr>
     <!-- Armory -->
     <td>
