@@ -5,7 +5,7 @@
     <tr>
       <td>
         <div align="left">
-          <p><a href="https://blender.org">Blender</a> user and mentor/helper +10 years.</p>
+          <p><a href="https://blender.org">Blender</a> user and helper/mentor +10 years.</p>
           <p><a href="https://armory3d.org">Armory3D</a> moderator (forums, subreddit, GitHub website) & developer.</p>
           <p><a href="https://rangeengine.tech">RanGE</a> admin (GitHub, Discord)</p>
           <p><a href="https://babylonjs.com">Babylon.js</a> admin (Discord).</p>
