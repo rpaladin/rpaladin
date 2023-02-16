@@ -1,4 +1,23 @@
 <!-- SOCIAL LINKS -->
+<h1 align="center">Credentials</h1>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <div align="left">
+          <p>Active <a href="https://armory3d.org">Armory3D</a> moderator & developer.</p>
+          <p>Active <a href="https://rangeengine.tech">RanGE</a> admin.</p>
+          <p>Active <a href="https://babylonjs.com">Babylon.js</a> Discord admin.</p>
+          <p>Active <a href="https://youtube.com/@OpenSourceGames">OpenSourceGames</a> Discord moderator.</p>
+          <p>Former <a href="https://upbge.org">UPBGE</a> admin and developer.</p>
+          <p>Former <a href="https://youtube.com/@SonicWorkflow">sonicworkflow</a> Discord admin.</p>
+          <p>Former <a href="https://assault.cubers.net">AssaultCube</a> contributor.</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <div align="center">
   <a href="https://twitter.com/rpaladin_01">
     <img src="https://img.shields.io/badge/twitter-%23E60023.svg?&color=blue&style=for-the-badge&logo=twitter&logoColor=white" />
@@ -180,65 +199,6 @@
 </table>
 <table>
   <tr>
-    <!-- Armory -->
-    <td>
-      <div align="center">
-        <img src="https://avatars.githubusercontent.com/u/20436620?s=200&v=4" width=64 /><br />
-        <div align="left">
-          <b>Name: </b><a href="https://armory3d.org">Armory</a><br />
-          <b>Role: </b>Moderator & Developer<br />
-          <b>Skill: </b>Pro
-        </div>
-      </div>
-    </td>
-    <!-- Babylon.js -->
-    <td>
-      <div align="center">
-        <img src="https://avatars.githubusercontent.com/u/4855800?s=200&v=4" width=64 /><br />
-        <div align="left">
-          <b>Name: </b><a href="https://babylonjs.com">Babylon.js</a><br />
-          <b>Role: </b>Discord Admin<br />
-          <b>Skill: </b>Basics
-        </div>
-      </div>
-    </td>
-    <!-- RanGE -->
-    <td>
-      <div align="center">
-        <img src="https://avatars.githubusercontent.com/u/112126963?s=200&v=4" width=64 /><br />
-        <div align="left">
-          <b>Name: </b><a href="https://rangeengine.tech">RanGE</a><br />
-          <b>Role: </b>Admin<br />
-          <b>Skill: </b>Pro
-        </div>
-      </div>
-    </td>
-    <!-- UPBGE -->
-    <td>
-      <div align="center">
-        <img src="https://avatars.githubusercontent.com/u/16006310?s=200&v=4" width=64 /><br />
-        <div align="left">
-          <b>Name: </b><a href="https://upbge.org">UPBGE</a><br />
-          <b>Role: </b>Former Admin & Developer<br />
-          <b>Skill: </b>Pro
-        </div>
-      </div>
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <!-- AssaultCube -->
-    <td>
-      <div align="center">
-        <img src="https://avatars.githubusercontent.com/u/5957666?s=200&v=4" width=64 /></br />
-        <div align="left">
-          <b>Name: </b><a href="https://assault.cubers.net">AssaultCube</a></br />
-          <b>Role: </b>Gamer, Former Contributor</br />
-          <b>Skill: </b>Casual</b>
-        </div>
-      </div>
-    </td>
     <!-- PlayCanvas -->
     <td>
       <div align="center">
