@@ -10,7 +10,7 @@
           <p><a href="https://rangeengine.tech">RanGE</a> admin (GitHub, Discord)</p>
           <p><a href="https://babylonjs.com">Babylon.js</a> admin (Discord).</p>
           <p><a href="https://youtube.com/@OpenSourceGames">OpenSourceGames</a> moderator (Discord).</p>
-          <p><a href="https://upbge.org">UPBGE</a> active moderator (subreddit), former admin (GitHub, Discord) and developer.</p>
+          <p><a href="https://upbge.org">UPBGE</a> moderator (subreddit), former admin (GitHub, Discord) and developer.</p>
           <p>Former <a href="https://youtube.com/@SonicWorkflow">sonicworkflow</a> admin (Discord).</p>
           <p>Former <a href="https://assault.cubers.net">AssaultCube</a> contributor.</p>
         </div>
@@ -18,7 +18,6 @@
     </tr>
   </table>
 </div>
-
 <div align="center">
   <a href="https://twitter.com/rpaladin_01">
     <img src="https://img.shields.io/badge/twitter-%23E60023.svg?&color=blue&style=for-the-badge&logo=twitter&logoColor=white" />
@@ -55,7 +54,6 @@
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width=64 /></br />
         <div align="left">
           <b>Name: </b><a href="https://developer.mozilla.org">HTML</a></br />
-          <b>Role: </b>User</br />
           <b>Skill: </b>Pro
         </div>
       </div>
@@ -66,7 +64,6 @@
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width=64 /></br />
         <div align="left">
           <b>Name: </b><a href="https://developer.mozilla.org">CSS</a></br />
-          <b>Role: </b>User</br />
           <b>Skill: </b>Pro
         </div>
       </div>
@@ -77,7 +74,6 @@
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width=64 /></br />
         <div align="left">
           <b>Name: </b><a href="https://python.org">Python</a></br />
-          <b>Role: </b>User</br />
           <b>Skill: </b>Pro
         </div>
       </div>
@@ -88,7 +84,6 @@
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width=64 /></br />
         <div align="left">
           <b>Name: </b><a href="https://www.javascript.com">JavaScript</a></br />
-          <b>Role: </b>User</br />
           <b>Skill: </b>Pro
         </div>
       </div>
@@ -99,7 +94,6 @@
         <img src="https://avatars.githubusercontent.com/u/2918581?s=200&v=4" width=64 /></br />
         <div align="left">
           <b>Name: </b><a href="https://getbootstrap.com">Bootstrap</a></br />
-          <b>Role: </b>User</br />
           <b>Skill: </b>Pro
         </div>
       </div>
@@ -110,7 +104,6 @@
         <img src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" width=64 /></br />
         <div align="left">
           <b>Name: </b><a href="https://nodejs.org">Node.js</a></br />
-          <b>Role: </b>User</br />
           <b>Skill: </b>Advanced
         </div>
       </div>
@@ -121,7 +114,6 @@
         <img src="https://avatars.githubusercontent.com/u/3826779?s=200&v=4" width=64 /></br />
         <div align="left">
           <b>Name: </b><a href="https://haxe.org">Haxe</a></br />
-          <b>Role: </b>User</br />
           <b>Skill: </b>Advanced
         </div>
       </div>
@@ -136,7 +128,6 @@
         <img src="https://avatars.githubusercontent.com/u/1608701?s=200&v=4" width=64 /></br />
         <div align="left">
           <b>Name: </b><a href="https://khronos.org">GLSL</a></br />
-          <b>Role: </b>User</br />
           <b>Skill: </b>Advanced
         </div>
       </div>
@@ -147,7 +138,6 @@
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width=64 /></br />
         <div align="left">
           <b>Name: </b><a href="https://dotnet.microsoft.com/en-us/download">C#</a></br />
-          <b>Role: </b>User</br />
           <b>Skill: </b>Advanced
         </div>
       </div>
@@ -158,7 +148,6 @@
         <img src="https://avatars.githubusercontent.com/u/4173184?s=200&v=4" width=64 /></br />
         <div align="left">
           <b>Name: </b><a href="https://getuikit.com">UIkit</a></br />
-          <b>Role: </b>User</br />
           <b>Skill: </b>Basics
         </div>
       </div>
@@ -169,7 +158,6 @@
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width=64 /></br />
         <div align="left">
           <b>Name: </b><a href="https://mysql.com">MySQL</a></br />
-          <b>Role: </b>User</br />
           <b>Skill: </b>Basics
         </div>
       </div>
@@ -180,7 +168,6 @@
         <img src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" width=64 /></br />
         <div align="left">
           <b>Name: </b><a href="http://tailwindcss.com">Tailwind CSS</a></br />
-          <b>Role: </b>User</br />
           <b>Skill: </b>Basics
         </div>
       </div>
@@ -191,7 +178,6 @@
         <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width=64 /></br />
         <div align="left">
           <b>Name: </b><a href="https://java.com/en">Java</a></br />
-          <b>Role: </b>User</br />
           <b>Skill: </b>Basics
         </div>
       </div>
@@ -200,25 +186,53 @@
 </table>
 <table>
   <tr>
+    <!-- Armory -->
+    <td>
+      <div align="center">
+        <img src="https://avatars.githubusercontent.com/u/20436620?s=200&v=4" width=64 /><br />
+        <div align="left">
+          <b>Name: </b><a href="https://armory3d.org">Armory</a><br />
+          <b>Skill: </b>Pro
+        </div>
+      </div>
+    </td>
+    <!-- UPBGE -->
+    <td>
+      <div align="center">
+        <img src="https://avatars.githubusercontent.com/u/16006310?s=200&v=4" width=64 /><br />
+        <div align="left">
+          <b>Name: </b><a href="https://upbge.org">UPBGE</a><br />
+          <b>Skill: </b>Pro
+        </div>
+      </div>
+    </td>
+    <!-- RanGE -->
+    <td>
+      <div align="center">
+        <img src="https://avatars.githubusercontent.com/u/112126963?s=200&v=4" width=64 /><br />
+        <div align="left">
+          <b>Name: </b><a href="https://rangeengine.tech">RanGE</a><br />
+          <b>Skill: </b>Pro
+        </div>
+      </div>
+    </td>
+    <!-- Babylon.js -->
+    <td>
+      <div align="center">
+        <img src="https://avatars.githubusercontent.com/u/4855800?s=200&v=4" width=64 /><br />
+        <div align="left">
+          <b>Name: </b><a href="https://babylonjs.com">Babylon.js</a><br />
+          <b>Skill: </b>Advanced
+        </div>
+      </div>
+    </td>
     <!-- PlayCanvas -->
     <td>
       <div align="center">
         <img src="https://avatars.githubusercontent.com/u/1030579?s=200&v=4" width=64 /></br />
         <div align="left">
           <b>Name: </b><a href="https://playcanvas.com">PlayCanvas</a></br />
-          <b>Role: </b>User</br />
           <b>Skill: </b>Advanced
-        </div>
-      </div>
-    </td>
-    <!-- Godot -->
-    <td>
-      <div align="center">
-        <img src="https://avatars.githubusercontent.com/u/6318500?s=200&v=4" width=64 /></br />
-        <div align="left">
-          <b>Name: </b><a href="https://godotengine.org">Godot</a></br />
-          <b>Role: </b>User</br />
-          <b>Skill: </b>Basics
         </div>
       </div>
     </td>
@@ -228,9 +242,18 @@
         <img src="https://avatars.githubusercontent.com/u/13039680?s=200&v=4" width=64 /></br />
         <div align="left">
           <b>Name: </b><a href="https://unity3d.com">Unity</a></br />
-          <b>Role: </b>User</br />
           <b>Skill: </b>Basics
          </div>
+      </div>
+    </td>
+    <!-- Godot -->
+    <td>
+      <div align="center">
+        <img src="https://avatars.githubusercontent.com/u/6318500?s=200&v=4" width=64 /></br />
+        <div align="left">
+          <b>Name: </b><a href="https://godotengine.org">Godot</a></br />
+          <b>Skill: </b>Basics
+        </div>
       </div>
     </td>
     <!-- Blend4Web -->
@@ -239,7 +262,6 @@
         <img src="https://avatars.githubusercontent.com/u/7070926?s=200&v=4" width=64 /></br />
         <div align="left">
           <b>Name: </b><a href="https://blend4web.com">Blend4Web</a></br />
-          <b>Role: </b>User</br />
           <b>Skill: </b>Basics
         </div>
       </div>
