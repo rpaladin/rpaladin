@@ -1,14 +1,15 @@
 <!-- SOCIAL LINKS -->
-<h1 align="center">Credentials</h1>
+<h1 align="center">Contributions</h1>
 <div align="center">
   <table>
     <tr>
       <td>
         <div align="left">
-          <p>Active <a href="https://armory3d.org">Armory3D</a> moderator (forums, subreddit, GitHub website) & developer.</p>
-          <p>Active <a href="https://rangeengine.tech">RanGE</a> admin (GitHub, Discord)</p>
-          <p>Active <a href="https://babylonjs.com">Babylon.js</a> admin (Discord).</p>
-          <p>Active <a href="https://youtube.com/@OpenSourceGames">OpenSourceGames</a> moderator (Discord).</p>
+          <p><a href="https://blender.org">Blender</a> user and mentor/helper +10 years.</p>
+          <p><a href="https://armory3d.org">Armory3D</a> moderator (forums, subreddit, GitHub website) & developer.</p>
+          <p><a href="https://rangeengine.tech">RanGE</a> admin (GitHub, Discord)</p>
+          <p><a href="https://babylonjs.com">Babylon.js</a> admin (Discord).</p>
+          <p><a href="https://youtube.com/@OpenSourceGames">OpenSourceGames</a> moderator (Discord).</p>
           <p><a href="https://upbge.org">UPBGE</a> active moderator (subreddit), former admin (GitHub, Discord) and developer.</p>
           <p>Former <a href="https://youtube.com/@SonicWorkflow">sonicworkflow</a> admin (Discord).</p>
           <p>Former <a href="https://assault.cubers.net">AssaultCube</a> contributor.</p>
