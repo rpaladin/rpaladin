@@ -5,12 +5,12 @@
     <tr>
       <td>
         <div align="left">
-          <p>Active <a href="https://armory3d.org">Armory3D</a> moderator & developer.</p>
-          <p>Active <a href="https://rangeengine.tech">RanGE</a> admin.</p>
-          <p>Active <a href="https://babylonjs.com">Babylon.js</a> Discord admin.</p>
-          <p>Active <a href="https://youtube.com/@OpenSourceGames">OpenSourceGames</a> Discord moderator.</p>
-          <p>Former <a href="https://upbge.org">UPBGE</a> admin and developer.</p>
-          <p>Former <a href="https://youtube.com/@SonicWorkflow">sonicworkflow</a> Discord admin.</p>
+          <p>Active <a href="https://armory3d.org">Armory3D</a> moderator (forums, subreddit, GitHub website) & developer.</p>
+          <p>Active <a href="https://rangeengine.tech">RanGE</a> admin (GitHub, Discord)</p>
+          <p>Active <a href="https://babylonjs.com">Babylon.js</a> admin (Discord).</p>
+          <p>Active <a href="https://youtube.com/@OpenSourceGames">OpenSourceGames</a> moderator (Discord).</p>
+          <p><a href="https://upbge.org">UPBGE</a> active moderator (subreddit), former admin (GitHub, Discord) and developer.</p>
+          <p>Former <a href="https://youtube.com/@SonicWorkflow">sonicworkflow</a> admin (Discord).</p>
           <p>Former <a href="https://assault.cubers.net">AssaultCube</a> contributor.</p>
         </div>
       </td>
