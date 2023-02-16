@@ -230,6 +230,17 @@
         </div>
       </div>
     </td>
+    <!-- C# -->
+    <td>
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width=64 /></br />
+        <div align="left">
+          <b>Name: </b><a href="https://dotnet.microsoft.com/en-us/download">C#</a></br />
+          <b>Role: </b>User</br />
+          <b>Skill: </b>Advanced
+        </div>
+      </div>
+    </td>
     <!-- UIkit -->
     <td>
       <div align="center">
@@ -247,17 +258,6 @@
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width=64 /></br />
         <div align="left">
           <b>Name: </b><a href="https://mysql.com">MySQL</a></br />
-          <b>Role: </b>User</br />
-          <b>Skill: </b>Basics
-        </div>
-      </div>
-    </td>
-    <!-- C# -->
-    <td>
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width=64 /></br />
-        <div align="left">
-          <b>Name: </b><a href="https://dotnet.microsoft.com/en-us/download">C#</a></br />
           <b>Role: </b>User</br />
           <b>Skill: </b>Basics
         </div>
