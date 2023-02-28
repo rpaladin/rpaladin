@@ -11,6 +11,7 @@
           <p><a href="https://babylonjs.com">Babylon.js</a> admin (Discord).</p>
           <p><a href="https://youtube.com/@OpenSourceGames">OpenSourceGames</a> moderator (Discord).</p>
           <p><a href="https://discord.com/invite/aR6CAcR">Blender Game Making Competition</a> admin (Discord).</p>
+          <p><a href="https://discord.com/invite/DtDwfdw3Xm">Makes you Sick</a> admin (Discord).</p>
           <p><a href="https://upbge.org">UPBGE</a> moderator (subreddit), former admin (GitHub, Discord) and developer.</p>
           <p>Former <a href="https://youtube.com/@SonicWorkflow">sonicworkflow</a> admin (Discord).</p>
           <p>Former <a href="https://assault.cubers.net">AssaultCube</a> contributor.</p>
