@@ -9,7 +9,7 @@
           <p><a href="https://armory3d.org">Armory3D</a> moderator (forums, subreddit, GitHub website) & developer.</p>
           <p><a href="https://upbge.org">UPBGE</a> moderator (subreddit), former admin (GitHub, Discord) and developer.</p>
           <p><a href="https://babylonjs.com">Babylon.js</a> admin (Discord).</p>
-          <p><a href="https://rangeengine.tech">RanGE</a> admin (GitHub, Discord)</p>
+          <p><a href="https://rangeengine.tech">RanGE</a> admin (GitHub, Discord) and contributor.</p>
           <p><a href="https://discord.com/invite/aR6CAcR">Blender Game Making Competition</a> admin (Discord).</p>
           <p><a href="https://discord.com/invite/DtDwfdw3Xm">Makes you Sick</a> admin (Discord).</p>
           <p><a href="https://youtube.com/@OpenSourceGames">OpenSourceGames</a> moderator (Discord).</p>
