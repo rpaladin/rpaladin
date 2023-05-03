@@ -6,7 +6,7 @@
       <td>
         <div align="left">
           <p><a href="https://blender.org">Blender</a> [3D software] user and community helper/mentor for over 10 years (<a href="https://discord.gg/blender">Discord</a>).</p>
-          <p><a href="https://armory3d.org">Armory3D</a> [game engine] moderator (forums, subreddit, GitHub website) & developer (<a href="https://discord.gg/rtpFtwnZCq">Discord</a>).</p>
+          <p><a href="https://armory3d.org">Armory3D</a> [game engine] moderator (forums, subreddit, GitHub) & developer (<a href="https://discord.gg/rtpFtwnZCq">Discord</a>).</p>
           <p><a href="https://upbge.org">UPBGE</a> [game engine] moderator (subreddit), former admin (GitHub, <a href="https://discord.gg/kWjKQAR">Discord</a>) and developer.</p>
           <p><a href="https://babylonjs.com">Babylon.js</a> [game engine] admin (<a href="https://discord.gg/bn2xx6VkbP">Discord</a>).</p>
           <p><a href="https://rangeengine.tech">RanGE</a> [game engine] admin (GitHub, <a href="https://discord.gg/yenmgDw3Fn">Discord</a>) and contributor.</p>
