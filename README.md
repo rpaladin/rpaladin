@@ -158,7 +158,7 @@
     <!-- SQL -->
     <td>
       <div align="center">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width=64 /></br />
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width=64 /></br />
         <div align="left">
           <b>Name: </b><a href="https://aws.amazon.com/what-is/sql">SQL</a></br />
           <b>EXP: </b>Basics
