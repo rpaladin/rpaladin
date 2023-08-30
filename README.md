@@ -14,7 +14,7 @@
           <p><a href="https://actionfps.com/clan/?id=mys">Makes you Sick</a> [AssaultCube clan] admin (<a href="https://discord.gg/DtDwfdw3Xm">Discord</a>).</p>
           <p><a href="https://youtube.com/@OpenSourceGames">OpenSourceGames</a> [YouTuber] moderator (<a href="https://discord.gg/DGrPnVUSaM">Discord</a>).</p>
           <p><a href="https://reddit.com/r/assaultcube/comments/kaczep/subreddits_back_open_i_have_one_question_what_the">Gema</a> [AssaultCube parkour] moderator (<a href="https://discord.gg/RFQx27P6Hw">Discord</a>).</p>
-          <p><a href="https://www.roblox.com/groups/12044038/Silver-Knight-Productions#!/about">Silver Knight Products</a> [Roblox game] moderator (<a href="https://discord.gg/VdGUbkDuBq">Discord</a>).</p>
+          <p>Retired <a href="https://www.roblox.com/groups/12044038/Silver-Knight-Productions#!/about">Silver Knight Products</a> [Roblox game] moderator (<a href="https://discord.gg/VdGUbkDuBq">Discord</a>).</p>
           <p>Retired <a href="https://youtube.com/@SonicWorkflow">sonicworkflow</a> [game dev community] admin (<a href="https://discord.gg/BuAvRnmfNA">Discord</a>).</p>
           <p>Retired <a href="https://assault.cubers.net">AssaultCube</a> [game] contributor (<a href="https://discord.me/assaultcube">Discord</a>).</p>
         </div>
