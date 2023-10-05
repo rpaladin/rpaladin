@@ -132,7 +132,7 @@
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width=64 /></br />
         <div align="left">
           <b>Name: </b><a href="https://dotnet.microsoft.com/en-us/download">C#</a></br />
-          <b>EXP: </b>Advanced
+          <b>EXP: </b>Intermediate
         </div>
       </div>
     </td>
@@ -152,7 +152,7 @@
         <img src="https://avatars.githubusercontent.com/u/1608701?s=200&v=4" width=64 /></br />
         <div align="left">
           <b>Name: </b><a href="https://khronos.org">GLSL</a></br />
-          <b>EXP: </b>Advanced
+          <b>EXP: </b>Basics
         </div>
       </div>
     </td>
@@ -216,7 +216,7 @@
         <img src="https://avatars.githubusercontent.com/u/112126963?s=200&v=4" width=64 /><br />
         <div align="left">
           <b>Name: </b><a href="https://rangeengine.tech">RanGE</a><br />
-          <b>EXP: </b>Pro
+          <b>EXP: </b>Advanced
         </div>
       </div>
     </td>
@@ -226,7 +226,7 @@
         <img src="https://avatars.githubusercontent.com/u/4855800?s=200&v=4" width=64 /><br />
         <div align="left">
           <b>Name: </b><a href="https://babylonjs.com">Babylon.js</a><br />
-          <b>EXP: </b>Advanced
+          <b>EXP: </b>Basics
         </div>
       </div>
     </td>
@@ -236,7 +236,7 @@
         <img src="https://avatars.githubusercontent.com/u/1030579?s=200&v=4" width=64 /></br />
         <div align="left">
           <b>Name: </b><a href="https://playcanvas.com">PlayCanvas</a></br />
-          <b>EXP: </b>Advanced
+          <b>EXP: </b>Intermediate
         </div>
       </div>
     </td>
@@ -256,7 +256,7 @@
         <img src="https://avatars.githubusercontent.com/u/6318500?s=200&v=4" width=64 /></br />
         <div align="left">
           <b>Name: </b><a href="https://godotengine.org">Godot</a></br />
-          <b>EXP: </b>Basics
+          <b>EXP: </b>Intermediate
         </div>
       </div>
     </td>
