@@ -1,5 +1,5 @@
 <!-- SOCIAL LINKS -->
-<h1 align="center">Contributions</h1>
+<h1 align="center">Online Contributions</h1>
 <div align="center">
   <table>
     <tr>
@@ -8,8 +8,8 @@
           <p><a href="https://blender.org">Blender</a> [3D software] user and community helper/mentor for over 10 years (<a href="https://discord.gg/blender">Discord</a>).</p>
           <p><a href="https://armory3d.org">Armory3D</a> [game engine] moderator (forums, subreddit, GitHub), former developer (<a href="https://discord.gg/rtpFtwnZCq">Discord</a>).</p>
           <p><a href="https://upbge.org">UPBGE</a> [game engine] moderator (subreddit), former admin (GitHub, <a href="https://discord.gg/kWjKQAR">Discord</a>) and developer.</p>
-          <p><a href="https://babylonjs.com">Babylon.js</a> [game engine] admin (<a href="https://discord.gg/bn2xx6VkbP">Discord</a>).</p>
-          <p><a href="https://rangeengine.tech">RanGE</a> [game engine] admin (<a href="https://github.com/rangeengine">GitHub</a>, <a href="https://discord.gg/yenmgDw3Fn">Discord</a>) and contributor.</p>
+          <p><a href="https://babylonjs.com">BabylonJS</a> [game engine] admin (<a href="https://discord.gg/bn2xx6VkbP">Discord</a>).</p>
+          <p><a href="https://rangeengine.tech">RangeEngine</a> [game engine] admin (<a href="https://github.com/rangeengine">GitHub</a>, <a href="https://discord.gg/yenmgDw3Fn">Discord</a>) and contributor.</p>
           <p><a href="https://bgmchallenge.blogspot.com">Blender Game Making Competition</a> [game jam] admin (<a href="https://discord.gg/aR6CAcR">Discord</a>).</p>
           <p><a href="https://actionfps.com/clan/?id=mys">Makes you Sick</a> [AssaultCube clan] admin (<a href="https://discord.gg/DtDwfdw3Xm">Discord</a>).</p>
           <p><a href="https://youtube.com/@OpenSourceGames">OpenSourceGames</a> [YouTuber] moderator (<a href="https://discord.gg/DGrPnVUSaM">Discord</a>).</p>
@@ -58,7 +58,7 @@
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width=64 /></br />
         <div align="left">
           <b>Name: </b><a href="https://developer.mozilla.org">HTML</a></br />
-          <b>EXP: </b>Pro
+          <b>EXP: </b>Expert
         </div>
       </div>
     </td>
@@ -68,7 +68,7 @@
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width=64 /></br />
         <div align="left">
           <b>Name: </b><a href="https://developer.mozilla.org">CSS</a></br />
-          <b>EXP: </b>Pro
+          <b>EXP: </b>Advanced
         </div>
       </div>
     </td>
@@ -78,7 +78,7 @@
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width=64 /></br />
         <div align="left">
           <b>Name: </b><a href="https://python.org">Python</a></br />
-          <b>EXP: </b>Pro
+          <b>EXP: </b>Advanced
         </div>
       </div>
     </td>
@@ -88,7 +88,7 @@
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width=64 /></br />
         <div align="left">
           <b>Name: </b><a href="https://www.javascript.com">JavaScript</a></br />
-          <b>EXP: </b>Pro
+          <b>EXP: </b>Expert
         </div>
       </div>
     </td>
@@ -98,7 +98,7 @@
         <img src="https://avatars.githubusercontent.com/u/2918581?s=200&v=4" width=64 /></br />
         <div align="left">
           <b>Name: </b><a href="https://getbootstrap.com">Bootstrap</a></br />
-          <b>EXP: </b>Pro
+          <b>EXP: </b>Expert
         </div>
       </div>
     </td>
@@ -118,7 +118,7 @@
         <img src="https://avatars.githubusercontent.com/u/3826779?s=200&v=4" width=64 /></br />
         <div align="left">
           <b>Name: </b><a href="https://haxe.org">Haxe</a></br />
-          <b>EXP: </b>Advanced
+          <b>EXP: </b>Intermediate
         </div>
       </div>
     </td>
@@ -132,7 +132,7 @@
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width=64 /></br />
         <div align="left">
           <b>Name: </b><a href="https://dotnet.microsoft.com/en-us/download">C#</a></br />
-          <b>EXP: </b>Intermediate
+          <b>EXP: </b>Advanced
         </div>
       </div>
     </td>
@@ -142,7 +142,7 @@
         <img src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" width=64 /></br />
         <div align="left">
           <b>Name: </b><a href="http://tailwindcss.com">Tailwind CSS</a></br />
-          <b>EXP: </b>Basics
+          <b>EXP: </b>Novice
         </div>
       </div>
     </td>
@@ -152,7 +152,7 @@
         <img src="https://avatars.githubusercontent.com/u/1608701?s=200&v=4" width=64 /></br />
         <div align="left">
           <b>Name: </b><a href="https://khronos.org">GLSL</a></br />
-          <b>EXP: </b>Basics
+          <b>EXP: </b>Novice
         </div>
       </div>
     </td>
@@ -162,7 +162,7 @@
         <img src="https://avatars.githubusercontent.com/u/4173184?s=200&v=4" width=64 /></br />
         <div align="left">
           <b>Name: </b><a href="https://getuikit.com">UIkit</a></br />
-          <b>EXP: </b>Basics
+          <b>EXP: </b>Novice
         </div>
       </div>
     </td>
@@ -172,7 +172,7 @@
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width=64 /></br />
         <div align="left">
           <b>Name: </b><a href="https://aws.amazon.com/what-is/sql">SQL</a></br />
-          <b>EXP: </b>Basics
+          <b>EXP: </b>Intermediate
         </div>
       </div>
     </td>
@@ -182,7 +182,7 @@
         <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width=64 /></br />
         <div align="left">
           <b>Name: </b><a href="https://java.com/en">Java</a></br />
-          <b>EXP: </b>Basics
+          <b>EXP: </b>Novice
         </div>
       </div>
     </td>
@@ -190,13 +190,13 @@
 </table>
 <table>
   <tr>
-    <!-- Armory -->
+    <!-- Armory3D -->
     <td>
       <div align="center">
         <img src="https://avatars.githubusercontent.com/u/20436620?s=200&v=4" width=64 /><br />
         <div align="left">
-          <b>Name: </b><a href="https://armory3d.org">Armory</a><br />
-          <b>EXP: </b>Pro
+          <b>Name: </b><a href="https://armory3d.org">Armory3D</a><br />
+          <b>EXP: </b>Expert
         </div>
       </div>
     </td>
@@ -206,27 +206,27 @@
         <img src="https://avatars.githubusercontent.com/u/16006310?s=200&v=4" width=64 /><br />
         <div align="left">
           <b>Name: </b><a href="https://upbge.org">UPBGE</a><br />
-          <b>EXP: </b>Pro
+          <b>EXP: </b>Expert
         </div>
       </div>
     </td>
-    <!-- RanGE -->
+    <!-- RangeEngine -->
     <td>
       <div align="center">
         <img src="https://avatars.githubusercontent.com/u/112126963?s=200&v=4" width=64 /><br />
         <div align="left">
-          <b>Name: </b><a href="https://rangeengine.tech">RanGE</a><br />
-          <b>EXP: </b>Advanced
+          <b>Name: </b><a href="https://rangeengine.tech">RangeEngine</a><br />
+          <b>EXP: </b>Intermediate
         </div>
       </div>
     </td>
-    <!-- Babylon.js -->
+    <!-- BabylonJS -->
     <td>
       <div align="center">
         <img src="https://avatars.githubusercontent.com/u/4855800?s=200&v=4" width=64 /><br />
         <div align="left">
-          <b>Name: </b><a href="https://babylonjs.com">Babylon.js</a><br />
-          <b>EXP: </b>Basics
+          <b>Name: </b><a href="https://babylonjs.com">BabylonJS</a><br />
+          <b>EXP: </b>Intermediate
         </div>
       </div>
     </td>
@@ -246,7 +246,7 @@
         <img src="https://avatars.githubusercontent.com/u/13039680?s=200&v=4" width=64 /></br />
         <div align="left">
           <b>Name: </b><a href="https://unity3d.com">Unity</a></br />
-          <b>EXP: </b>Basics
+          <b>EXP: </b>Novice
          </div>
       </div>
     </td>
@@ -266,7 +266,7 @@
         <img src="https://avatars.githubusercontent.com/u/7070926?s=200&v=4" width=64 /></br />
         <div align="left">
           <b>Name: </b><a href="https://blend4web.com">Blend4Web</a></br />
-          <b>EXP: </b>Basics
+          <b>EXP: </b>Novice
         </div>
       </div>
     </td>
