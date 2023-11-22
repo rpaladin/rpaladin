@@ -142,7 +142,7 @@
         <img src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" width=64 /></br />
         <div align="left">
           <b>Name: </b><a href="http://tailwindcss.com">Tailwind CSS</a></br />
-          <b>EXP: </b>Novice
+          <b>EXP: </b>Intermediate
         </div>
       </div>
     </td>
