@@ -1,5 +1,10 @@
-<!-- SOCIAL LINKS -->
+<!-- Featured -->
+<div align="center">
+  <a href="rpaladin.github.io/browser-games-list">rpaladin.github.io/browser-games-list</a>
+</div>
+<!-- TITLE -->
 <h1 align="center">Online Contributions</h1>
+<!-- BIO -->
 <div align="center">
   <table>
     <tr>
@@ -22,6 +27,7 @@
     </tr>
   </table>
 </div>
+<!-- SOCIAL LINKS -->
 <div align="center">
   <a href="https://twitter.com/rpaladin_01">
     <img src="https://img.shields.io/badge/twitter-%23E60023.svg?&color=blue&style=for-the-badge&logo=twitter&logoColor=white" />
