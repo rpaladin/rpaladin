@@ -1,7 +1,7 @@
 <!-- Featured -->
-<div align="center">
+<h1 align="center">
   <a href="rpaladin.github.io/browser-games-list">rpaladin.github.io/browser-games-list</a>
-</div>
+</h1>
 <!-- TITLE -->
 <h1 align="center">Online Contributions</h1>
 <!-- BIO -->
