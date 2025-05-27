@@ -1,6 +1,6 @@
 <!-- Featured -->
 <h1 align="center">
-  <a href="rpaladin.github.io/browser-games-list">rpaladin.github.io/browser-games-list</a>
+  <a href="https://rpaladin.github.io/browser-games-list">rpaladin.github.io/browser-games-list</a>
 </h1>
 <!-- TITLE -->
 <h1 align="center">Online Contributions</h1>
